@@ -70,6 +70,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2026-02-04**|**SPOT-Occ: Sparse Prototype-guided Transformer for Camera-based 3D Occupancy Prediction**|Suzeyu Chen et.al.|[2602.04240](http://arxiv.org/abs/2602.04240)|null|
+|**2026-02-04**|**Fluid Representations in Reasoning Models**|Dmitrii Kharlapenko et.al.|[2602.04843](http://arxiv.org/abs/2602.04843)|null|
 |**2026-02-03**|**Finite time pseudo-rip singularity in cosmology**|Mariusz P. Dąbrowski et.al.|[2602.03540](http://arxiv.org/abs/2602.03540)|null|
 |**2026-02-02**|**Mitigating Safety Tax via Distribution-Grounded Refinement in Large Reasoning Models**|Yingsha Xie et.al.|[2602.02136](http://arxiv.org/abs/2602.02136)|null|
 |**2026-02-02**|**Teacher-Guided Student Self-Knowledge Distillation Using Diffusion Model**|Yu Wang et.al.|[2602.02107](http://arxiv.org/abs/2602.02107)|null|
