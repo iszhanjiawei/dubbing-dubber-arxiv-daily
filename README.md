@@ -1,4 +1,4 @@
-## Updated on 2026.02.11
+## Updated on 2026.02.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -63,14 +63,18 @@
 |**2019-08-20**|**From Text to Sound: A Preliminary Study on Retrieving Sound Effects to Radio Stories**|Songwei Ge et.al.|[1908.07590](http://arxiv.org/abs/1908.07590)|null|
 |**2016-05-30**|**A Solver for a Theory of Strings and Bit-vectors**|Sanu Subramanian et.al.|[1605.09446](http://arxiv.org/abs/1605.09446)|null|
 
-<p align=right>(<a href=#updated-on-20260211>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260212>back to top</a>)</p>
 
 ## Dubbing Papers
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-11**|**Surgery: Mitigating Harmful Fine-Tuning for Large Language Models via Attention Sink**|Guozhi Liu et.al.|[2602.05228](http://arxiv.org/abs/2602.05228)|null|
+|**2026-02-11**|**GECAM discovery of the second FRB-associated Magnetar X-ray Burst from SGR J1935+2154**|Chen-Wei Wang et.al.|[2602.10895](http://arxiv.org/abs/2602.10895)|null|
+|**2026-02-10**|**Convolution comparison measures**|Otte Heinävaara et.al.|[2602.10373](http://arxiv.org/abs/2602.10373)|null|
+|**2026-02-10**|**Area-Efficient In-Memory Computing for Mixture-of-Experts via Multiplexing and Caching**|Hanyuan Gao et.al.|[2602.10254](http://arxiv.org/abs/2602.10254)|null|
+|**2026-02-10**|**Why do we do astrophysics?**|David W. Hogg et.al.|[2602.10181](http://arxiv.org/abs/2602.10181)|null|
 |**2026-02-07**|**Circularly polarized gravitational waves from parity-violating scalar-tensor theory**|Jia-Xi Feng et.al.|[2602.07430](http://arxiv.org/abs/2602.07430)|null|
-|**2026-02-05**|**Surgery: Mitigating Harmful Fine-Tuning for Large Language Models via Attention Sink**|Guozhi Liu et.al.|[2602.05228](http://arxiv.org/abs/2602.05228)|null|
 |**2026-02-04**|**SPOT-Occ: Sparse Prototype-guided Transformer for Camera-based 3D Occupancy Prediction**|Suzeyu Chen et.al.|[2602.04240](http://arxiv.org/abs/2602.04240)|null|
 |**2026-02-04**|**Fluid Representations in Reasoning Models**|Dmitrii Kharlapenko et.al.|[2602.04843](http://arxiv.org/abs/2602.04843)|null|
 |**2026-02-04**|**Topological frustration and quantum resources**|Alberto Giuseppe Catalano et.al.|[2602.04960](http://arxiv.org/abs/2602.04960)|null|
@@ -5076,5 +5080,5 @@
 |**2013-10-01**|**Stealth Stops and Spin Correlation: A Snowmass White Paper**|Zhenyu Han et.al.|[1310.0356](http://arxiv.org/abs/1310.0356)|null|
 |**2013-09-26**|**PyR@TE: Renormalization Group Equations for General Gauge Theories**|Florian Lyonnet et.al.|[1309.7030](http://arxiv.org/abs/1309.7030)|null|
 
-<p align=right>(<a href=#updated-on-20260211>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260212>back to top</a>)</p>
 
