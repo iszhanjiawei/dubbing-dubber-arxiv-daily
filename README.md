@@ -70,6 +70,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2026-02-12**|**Neuro-Symbolic Multitasking: A Unified Framework for Discovering Generalizable Solutions to PDE Families**|Yipeng Huang et.al.|[2602.11630](http://arxiv.org/abs/2602.11630)|null|
+|**2026-02-12**|**Magnetopological mechanics in Maxwell lattice frustrated Mott insulators**|Hong-Hao Song et.al.|[2602.12168](http://arxiv.org/abs/2602.12168)|null|
 |**2026-02-11**|**Surgery: Mitigating Harmful Fine-Tuning for Large Language Models via Attention Sink**|Guozhi Liu et.al.|[2602.05228](http://arxiv.org/abs/2602.05228)|null|
 |**2026-02-11**|**GECAM discovery of the second FRB-associated Magnetar X-ray Burst from SGR J1935+2154**|Chen-Wei Wang et.al.|[2602.10895](http://arxiv.org/abs/2602.10895)|null|
 |**2026-02-11**|**The Cost of Learning under Multiple Change Points**|Tomer Gafni et.al.|[2602.11406](http://arxiv.org/abs/2602.11406)|null|
