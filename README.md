@@ -1,4 +1,4 @@
-## Updated on 2026.02.15
+## Updated on 2026.02.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -63,14 +63,18 @@
 |**2019-08-20**|**From Text to Sound: A Preliminary Study on Retrieving Sound Effects to Radio Stories**|Songwei Ge et.al.|[1908.07590](http://arxiv.org/abs/1908.07590)|null|
 |**2016-05-30**|**A Solver for a Theory of Strings and Bit-vectors**|Sanu Subramanian et.al.|[1605.09446](http://arxiv.org/abs/1605.09446)|null|
 
-<p align=right>(<a href=#updated-on-20260215>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260216>back to top</a>)</p>
 
 ## Dubbing Papers
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-13**|**Out-of-Order Membership to Regular Languages**|Antoine Amarilli et.al.|[2602.13100](http://arxiv.org/abs/2602.13100)|null|
+|**2026-02-13**|**Flips and Merge-Width in Sparse Graphs**|Karolina Drabik et.al.|[2602.12926](http://arxiv.org/abs/2602.12926)|null|
+|**2026-02-13**|**Reliable Thinking with Images**|Haobin Li et.al.|[2602.12916](http://arxiv.org/abs/2602.12916)|null|
 |**2026-02-12**|**Neuro-Symbolic Multitasking: A Unified Framework for Discovering Generalizable Solutions to PDE Families**|Yipeng Huang et.al.|[2602.11630](http://arxiv.org/abs/2602.11630)|null|
 |**2026-02-12**|**Magnetopological mechanics in Maxwell lattice frustrated Mott insulators**|Hong-Hao Song et.al.|[2602.12168](http://arxiv.org/abs/2602.12168)|null|
+|**2026-02-12**|**Interpolation-Inspired Closure Certificates**|Mohammed Adib Oumer et.al.|[2602.12436](http://arxiv.org/abs/2602.12436)|null|
 |**2026-02-11**|**Surgery: Mitigating Harmful Fine-Tuning for Large Language Models via Attention Sink**|Guozhi Liu et.al.|[2602.05228](http://arxiv.org/abs/2602.05228)|null|
 |**2026-02-11**|**GECAM discovery of the second FRB-associated Magnetar X-ray Burst from SGR J1935+2154**|Chen-Wei Wang et.al.|[2602.10895](http://arxiv.org/abs/2602.10895)|null|
 |**2026-02-11**|**The Cost of Learning under Multiple Change Points**|Tomer Gafni et.al.|[2602.11406](http://arxiv.org/abs/2602.11406)|null|
@@ -5083,5 +5087,5 @@
 |**2013-10-01**|**Stealth Stops and Spin Correlation: A Snowmass White Paper**|Zhenyu Han et.al.|[1310.0356](http://arxiv.org/abs/1310.0356)|null|
 |**2013-09-26**|**PyR@TE: Renormalization Group Equations for General Gauge Theories**|Florian Lyonnet et.al.|[1309.7030](http://arxiv.org/abs/1309.7030)|null|
 
-<p align=right>(<a href=#updated-on-20260215>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260216>back to top</a>)</p>
 
