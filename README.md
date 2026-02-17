@@ -69,11 +69,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-16**|**Reliable Thinking with Images**|Haobin Li et.al.|[2602.12916](http://arxiv.org/abs/2602.12916)|null|
 |**2026-02-15**|**Interaction-Enabled Two- and Three-Fold Exceptional Points**|Musashi Kato et.al.|[2602.14056](http://arxiv.org/abs/2602.14056)|null|
 |**2026-02-14**|**Making Symmetry Explicit: The Limits of Sophistication**|Henrique Gomes et.al.|[2602.13708](http://arxiv.org/abs/2602.13708)|null|
 |**2026-02-13**|**Out-of-Order Membership to Regular Languages**|Antoine Amarilli et.al.|[2602.13100](http://arxiv.org/abs/2602.13100)|null|
 |**2026-02-13**|**Flips and Merge-Width in Sparse Graphs**|Karolina Drabik et.al.|[2602.12926](http://arxiv.org/abs/2602.12926)|null|
-|**2026-02-13**|**Reliable Thinking with Images**|Haobin Li et.al.|[2602.12916](http://arxiv.org/abs/2602.12916)|null|
 |**2026-02-12**|**Neuro-Symbolic Multitasking: A Unified Framework for Discovering Generalizable Solutions to PDE Families**|Yipeng Huang et.al.|[2602.11630](http://arxiv.org/abs/2602.11630)|null|
 |**2026-02-12**|**Magnetopological mechanics in Maxwell lattice frustrated Mott insulators**|Hong-Hao Song et.al.|[2602.12168](http://arxiv.org/abs/2602.12168)|null|
 |**2026-02-12**|**Interpolation-Inspired Closure Certificates**|Mohammed Adib Oumer et.al.|[2602.12436](http://arxiv.org/abs/2602.12436)|null|
