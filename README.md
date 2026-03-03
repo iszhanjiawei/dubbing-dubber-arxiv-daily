@@ -69,6 +69,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-02**|**LCEz4-M1: A Lyman Continuum Emitter Candidate at z = 4.444 in the MUSE Hubble Ultra Deep Field**|Shuairu Zhu et.al.|[2603.01487](http://arxiv.org/abs/2603.01487)|null|
+|**2026-03-01**|**FREE-Edit: Using Editing-aware Injection in Rectified Flow Models for Zero-shot Image-Driven Video Editing**|Maomao Li et.al.|[2603.01164](http://arxiv.org/abs/2603.01164)|null|
 |**2026-02-28**|**CoLC: Communication-Efficient Collaborative Perception with LiDAR Completion**|Yushan Han et.al.|[2603.00682](http://arxiv.org/abs/2603.00682)|null|
 |**2026-02-28**|**DiffTrans: Differentiable Geometry-Materials Decomposition for Reconstructing Transparent Objects**|Changpu Li et.al.|[2603.00413](http://arxiv.org/abs/2603.00413)|null|
 |**2026-02-27**|**CycleBEV: Regularizing View Transformation Networks via View Cycle Consistency for Bird's-Eye-View Semantic Segmentation**|Jeongbin Hong et.al.|[2602.23575](http://arxiv.org/abs/2602.23575)|null|
