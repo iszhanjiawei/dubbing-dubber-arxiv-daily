@@ -69,6 +69,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-05**|**A structure-preserving discretisation of SO(3)-rotation fields for finite Cosserat micropolar elasticity**|Lucca Schek et.al.|[2602.15147](http://arxiv.org/abs/2602.15147)|null|
 |**2026-03-04**|**UniSync: Towards Generalizable and High-Fidelity Lip Synchronization for Challenging Scenarios**|Ruidi Fan et.al.|[2603.03882](http://arxiv.org/abs/2603.03882)|null|
 |**2026-03-04**|**Machine Pareidolia: Protecting Facial Image with Emotional Editing**|Binh M. Le et.al.|[2603.03665](http://arxiv.org/abs/2603.03665)|null|
 |**2026-03-03**|**LCEz4-M1: A Lyman Continuum Emitter Candidate at z = 4.444 in the MUSE Hubble Ultra Deep Field**|Shuairu Zhu et.al.|[2603.01487](http://arxiv.org/abs/2603.01487)|null|
@@ -83,7 +84,6 @@
 |**2026-02-21**|**Learning Multi-Modal Prototypes for Cross-Domain Few-Shot Object Detection**|Wanqi Wang et.al.|[2602.18811](http://arxiv.org/abs/2602.18811)|null|
 |**2026-02-17**|**Local Node Differential Privacy**|Sofya Raskhodnikova et.al.|[2602.15802](http://arxiv.org/abs/2602.15802)|null|
 |**2026-02-16**|**Reliable Thinking with Images**|Haobin Li et.al.|[2602.12916](http://arxiv.org/abs/2602.12916)|null|
-|**2026-02-16**|**A structure-preserving & objective discretisation of SO(3)-matrix rotation fields for finite Cosserat micropolar continua**|Lucca Schek et.al.|[2602.15147](http://arxiv.org/abs/2602.15147)|null|
 |**2026-02-15**|**Interaction-Enabled Two- and Three-Fold Exceptional Points**|Musashi Kato et.al.|[2602.14056](http://arxiv.org/abs/2602.14056)|null|
 |**2026-02-14**|**Making Symmetry Explicit: The Limits of Sophistication**|Henrique Gomes et.al.|[2602.13708](http://arxiv.org/abs/2602.13708)|null|
 |**2026-02-13**|**Out-of-Order Membership to Regular Languages**|Antoine Amarilli et.al.|[2602.13100](http://arxiv.org/abs/2602.13100)|null|
