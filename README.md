@@ -69,6 +69,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-09**|**Leaderboard Incentives: Model Rankings under Strategic Post-Training**|Yatong Chen et.al.|[2603.08371](http://arxiv.org/abs/2603.08371)|null|
 |**2026-03-08**|**Sharpening Worst-Case Error Assessment for Fault-Tolerant Quantum Computing: Fidelity and Its Deviation**|Kyoungho Cho et.al.|[2603.07495](http://arxiv.org/abs/2603.07495)|null|
 |**2026-03-06**|**Offline Materials Optimization with CliqueFlowmer**|Jakub Grudzien Kuba et.al.|[2603.06082](http://arxiv.org/abs/2603.06082)|null|
 |**2026-03-06**|**Confirmation and Refutation of Lyman Continuum Leakers at $z\sim3$ with JWST NIRSpec/IFU**|Shengzhe Wang et.al.|[2603.05907](http://arxiv.org/abs/2603.05907)|null|
