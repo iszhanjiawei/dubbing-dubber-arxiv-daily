@@ -70,6 +70,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-16**|**Reference-Free Omnidirectional Stereo Matching via Multi-View Consistency Maximization**|Lehuai Xu et.al.|[2603.15019](http://arxiv.org/abs/2603.15019)|null|
 |**2026-03-15**|**Controllable Accent Normalization via Discrete Diffusion**|Qibing Bai et.al.|[2603.14275](http://arxiv.org/abs/2603.14275)|null|
 |**2026-03-15**|**DiFlowDubber: Discrete Flow Matching for Automated Video Dubbing via Cross-Modal Alignment and Synchronization**|Ngoc-Son Nguyen et.al.|[2603.14267](http://arxiv.org/abs/2603.14267)|null|
 |**2026-03-14**|**A Multi-Agent Perception-Action Alliance for Efficient Long Video Reasoning**|Yichang Xu et.al.|[2603.14052](http://arxiv.org/abs/2603.14052)|null|
