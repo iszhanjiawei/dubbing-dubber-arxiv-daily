@@ -1,4 +1,4 @@
-## Updated on 2026.03.16
+## Updated on 2026.03.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-15**|**DiFlowDubber: Discrete Flow Matching for Automated Video Dubbing via Cross-Modal Alignment and Synchronization**|Ngoc-Son Nguyen et.al.|[2603.14267](http://arxiv.org/abs/2603.14267)|null|
 |**2025-11-27**|**VSpeechLM: A Visual Speech Language Model for Visual Text-to-Speech Task**|Yuyue Wang et.al.|[2511.22229](http://arxiv.org/abs/2511.22229)|null|
 |**2025-11-23**|**SyncVoice: Towards Video Dubbing with Vision-Augmented Pretrained TTS Model**|Kaidi Wang et.al.|[2512.05126](http://arxiv.org/abs/2512.05126)|null|
 |**2025-11-18**|**Towards Authentic Movie Dubbing with Retrieve-Augmented Director-Actor Interaction Learning**|Rui Liu et.al.|[2511.14249](http://arxiv.org/abs/2511.14249)|null|
@@ -63,13 +64,17 @@
 |**2019-08-20**|**From Text to Sound: A Preliminary Study on Retrieving Sound Effects to Radio Stories**|Songwei Ge et.al.|[1908.07590](http://arxiv.org/abs/1908.07590)|null|
 |**2016-05-30**|**A Solver for a Theory of Strings and Bit-vectors**|Sanu Subramanian et.al.|[1605.09446](http://arxiv.org/abs/1605.09446)|null|
 
-<p align=right>(<a href=#updated-on-20260316>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260317>back to top</a>)</p>
 
 ## Dubbing Papers
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-15**|**Controllable Accent Normalization via Discrete Diffusion**|Qibing Bai et.al.|[2603.14275](http://arxiv.org/abs/2603.14275)|null|
+|**2026-03-15**|**DiFlowDubber: Discrete Flow Matching for Automated Video Dubbing via Cross-Modal Alignment and Synchronization**|Ngoc-Son Nguyen et.al.|[2603.14267](http://arxiv.org/abs/2603.14267)|null|
+|**2026-03-14**|**A Multi-Agent Perception-Action Alliance for Efficient Long Video Reasoning**|Yichang Xu et.al.|[2603.14052](http://arxiv.org/abs/2603.14052)|null|
 |**2026-03-13**|**Mitigating Collusion in Proofs of Liabilities**|Malcom Mohamed et.al.|[2603.12990](http://arxiv.org/abs/2603.12990)|null|
+|**2026-03-13**|**Jaguar: A Primal Algorithm for Conjunctive Query Evaluation in Submodular-Width Time**|Mahmoud Abo Khamis et.al.|[2603.13624](http://arxiv.org/abs/2603.13624)|null|
 |**2026-03-12**|**Mobile-GS: Real-time Gaussian Splatting for Mobile Devices**|Xiaobiao Du et.al.|[2603.11531](http://arxiv.org/abs/2603.11531)|null|
 |**2026-03-12**|**Fracton Spin Liquid and Exotic Frustrated Phases in Ising-like Octochlore Magnets**|Matthew Stern et.al.|[2603.12313](http://arxiv.org/abs/2603.12313)|null|
 |**2026-03-09**|**Leaderboard Incentives: Model Rankings under Strategic Post-Training**|Yatong Chen et.al.|[2603.08371](http://arxiv.org/abs/2603.08371)|null|
@@ -5109,5 +5114,5 @@
 |**2013-10-01**|**Stealth Stops and Spin Correlation: A Snowmass White Paper**|Zhenyu Han et.al.|[1310.0356](http://arxiv.org/abs/1310.0356)|null|
 |**2013-09-26**|**PyR@TE: Renormalization Group Equations for General Gauge Theories**|Florian Lyonnet et.al.|[1309.7030](http://arxiv.org/abs/1309.7030)|null|
 
-<p align=right>(<a href=#updated-on-20260316>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260317>back to top</a>)</p>
 
