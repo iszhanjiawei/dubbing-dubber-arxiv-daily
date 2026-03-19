@@ -1,4 +1,4 @@
-## Updated on 2026.03.18
+## Updated on 2026.03.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -64,16 +64,19 @@
 |**2019-08-20**|**From Text to Sound: A Preliminary Study on Retrieving Sound Effects to Radio Stories**|Songwei Ge et.al.|[1908.07590](http://arxiv.org/abs/1908.07590)|null|
 |**2016-05-30**|**A Solver for a Theory of Strings and Bit-vectors**|Sanu Subramanian et.al.|[1605.09446](http://arxiv.org/abs/1605.09446)|null|
 
-<p align=right>(<a href=#updated-on-20260318>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260319>back to top</a>)</p>
 
 ## Dubbing Papers
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-18**|**Hamiltonian Monte Carlo enhanced by Exact Diagonalization**|Finn L. Temmen et.al.|[2603.17788](http://arxiv.org/abs/2603.17788)|null|
 |**2026-03-17**|**DiFlowDubber: Discrete Flow Matching for Automated Video Dubbing via Cross-Modal Alignment and Synchronization**|Ngoc-Son Nguyen et.al.|[2603.14267](http://arxiv.org/abs/2603.14267)|null|
 |**2026-03-17**|**SparkVSR: Interactive Video Super-Resolution via Sparse Keyframe Propagation**|Jiongze Yu et.al.|[2603.16864](http://arxiv.org/abs/2603.16864)|null|
 |**2026-03-17**|**Ergodicity in discrete-time quantum walks**|Kiran Kumar et.al.|[2603.16837](http://arxiv.org/abs/2603.16837)|null|
 |**2026-03-17**|**Decoherence and the Reemergence of Coherence From a Superconducting "Horizon"**|Eric J. Sung et.al.|[2603.16765](http://arxiv.org/abs/2603.16765)|null|
+|**2026-03-17**|**PaAgent: Portrait-Aware Image Restoration Agent via Subjective-Objective Reinforcement Learning**|Yijian Wang et.al.|[2603.17055](http://arxiv.org/abs/2603.17055)|null|
+|**2026-03-17**|**Momentum-gapped quasiparticles in disordered metals**|Miguel-Ángel Sánchez-Martínez et.al.|[2603.17002](http://arxiv.org/abs/2603.17002)|null|
 |**2026-03-16**|**Reference-Free Omnidirectional Stereo Matching via Multi-View Consistency Maximization**|Lehuai Xu et.al.|[2603.15019](http://arxiv.org/abs/2603.15019)|null|
 |**2026-03-16**|**Mostly Text, Smart Visuals: Asymmetric Text-Visual Pruning for Large Vision-Language Models**|Sijie Li et.al.|[2603.16001](http://arxiv.org/abs/2603.16001)|null|
 |**2026-03-15**|**Controllable Accent Normalization via Discrete Diffusion**|Qibing Bai et.al.|[2603.14275](http://arxiv.org/abs/2603.14275)|null|
@@ -5119,5 +5122,5 @@
 |**2013-10-01**|**Stealth Stops and Spin Correlation: A Snowmass White Paper**|Zhenyu Han et.al.|[1310.0356](http://arxiv.org/abs/1310.0356)|null|
 |**2013-09-26**|**PyR@TE: Renormalization Group Equations for General Gauge Theories**|Florian Lyonnet et.al.|[1309.7030](http://arxiv.org/abs/1309.7030)|null|
 
-<p align=right>(<a href=#updated-on-20260318>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260319>back to top</a>)</p>
 
