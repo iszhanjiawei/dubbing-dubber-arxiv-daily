@@ -70,6 +70,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-25**|**Autotuning T-PaiNN: Enabling Data-Efficient GNN Interatomic Potential Development via Classical-to-Quantum Transfer Learning**|Vivienne Pelletier et.al.|[2603.24752](http://arxiv.org/abs/2603.24752)|null|
 |**2026-03-24**|**STAR-Magic Mutation: Even More Efficient Analog Rotation Gates for Early Fault-Tolerant Quantum Computer**|Riki Toshio et.al.|[2603.22891](http://arxiv.org/abs/2603.22891)|null|
 |**2026-03-21**|**The typicality of symmetry-induced entanglement**|Christian Boudreault et.al.|[2603.20786](http://arxiv.org/abs/2603.20786)|null|
 |**2026-03-20**|**A Multi-Agent Perception-Action Alliance for Efficient Long Video Reasoning**|Yichang Xu et.al.|[2603.14052](http://arxiv.org/abs/2603.14052)|null|
