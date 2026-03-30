@@ -70,6 +70,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-27**|**DiFlowDubber: Discrete Flow Matching for Automated Video Dubbing via Cross-Modal Alignment and Synchronization**|Ngoc-Son Nguyen et.al.|[2603.14267](http://arxiv.org/abs/2603.14267)|null|
+|**2026-03-27**|**An energetic dirty fireball detected in soft X-rays**|C. -Y. Dai et.al.|[2603.26213](http://arxiv.org/abs/2603.26213)|null|
+|**2026-03-27**|**Cinematic Audio Source Separation Using Visual Cues**|Kang Zhang et.al.|[2603.26113](http://arxiv.org/abs/2603.26113)|null|
+|**2026-03-26**|**Extreme (Rogue) Waves: From Theory to Experiments in Ultracold Gases and Beyond**|A. Chabchoub et.al.|[2603.25908](http://arxiv.org/abs/2603.25908)|null|
 |**2026-03-25**|**Autotuning T-PaiNN: Enabling Data-Efficient GNN Interatomic Potential Development via Classical-to-Quantum Transfer Learning**|Vivienne Pelletier et.al.|[2603.24752](http://arxiv.org/abs/2603.24752)|null|
 |**2026-03-24**|**STAR-Magic Mutation: Even More Efficient Analog Rotation Gates for Early Fault-Tolerant Quantum Computer**|Riki Toshio et.al.|[2603.22891](http://arxiv.org/abs/2603.22891)|null|
 |**2026-03-21**|**The typicality of symmetry-induced entanglement**|Christian Boudreault et.al.|[2603.20786](http://arxiv.org/abs/2603.20786)|null|
@@ -79,7 +83,6 @@
 |**2026-03-19**|**An Exploration of Crank Generating functions for $t$ -core partitions**|Samuel Wilson et.al.|[2603.19495](http://arxiv.org/abs/2603.19495)|null|
 |**2026-03-19**|**Warm-Start Flow Matching for Guaranteed Fast Text/Image Generation**|Minyoung Kim et.al.|[2603.19360](http://arxiv.org/abs/2603.19360)|null|
 |**2026-03-18**|**Hamiltonian Monte Carlo enhanced by Exact Diagonalization**|Finn L. Temmen et.al.|[2603.17788](http://arxiv.org/abs/2603.17788)|null|
-|**2026-03-17**|**DiFlowDubber: Discrete Flow Matching for Automated Video Dubbing via Cross-Modal Alignment and Synchronization**|Ngoc-Son Nguyen et.al.|[2603.14267](http://arxiv.org/abs/2603.14267)|null|
 |**2026-03-17**|**SparkVSR: Interactive Video Super-Resolution via Sparse Keyframe Propagation**|Jiongze Yu et.al.|[2603.16864](http://arxiv.org/abs/2603.16864)|null|
 |**2026-03-17**|**Ergodicity in discrete-time quantum walks**|Kiran Kumar et.al.|[2603.16837](http://arxiv.org/abs/2603.16837)|null|
 |**2026-03-17**|**Decoherence and the Reemergence of Coherence From a Superconducting "Horizon"**|Eric J. Sung et.al.|[2603.16765](http://arxiv.org/abs/2603.16765)|null|
