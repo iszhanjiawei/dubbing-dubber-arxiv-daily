@@ -73,6 +73,7 @@
 |---|---|---|---|---|
 |**2026-03-30**|**Exact Skin Critical Phase and Configurable Fractal Wavefunctions via Imaginary Gauge Phase Imprint in Non-Hermitian Lattices**|Ji-Long Dong et.al.|[2603.28153](http://arxiv.org/abs/2603.28153)|null|
 |**2026-03-30**|**MOSS-VoiceGenerator: Create Realistic Voices with Natural Language Descriptions**|Kexin Huang et.al.|[2603.28086](http://arxiv.org/abs/2603.28086)|null|
+|**2026-03-30**|**Can Hierarchical Cross-Modal Fusion Predict Human Perception of AI Dubbed Content?**|Ashwini Dasare et.al.|[2603.28717](http://arxiv.org/abs/2603.28717)|null|
 |**2026-03-28**|**Irregular Repeating Tidal Disruption Events due to Diffusive Tides**|Shu Yan Lau et.al.|[2603.27132](http://arxiv.org/abs/2603.27132)|null|
 |**2026-03-27**|**DiFlowDubber: Discrete Flow Matching for Automated Video Dubbing via Cross-Modal Alignment and Synchronization**|Ngoc-Son Nguyen et.al.|[2603.14267](http://arxiv.org/abs/2603.14267)|null|
 |**2026-03-27**|**An energetic dirty fireball detected in soft X-rays**|C. -Y. Dai et.al.|[2603.26213](http://arxiv.org/abs/2603.26213)|null|
