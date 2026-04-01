@@ -1,4 +1,4 @@
-## Updated on 2026.03.31
+## Updated on 2026.04.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -65,15 +65,18 @@
 |**2019-08-20**|**From Text to Sound: A Preliminary Study on Retrieving Sound Effects to Radio Stories**|Songwei Ge et.al.|[1908.07590](http://arxiv.org/abs/1908.07590)|null|
 |**2016-05-30**|**A Solver for a Theory of Strings and Bit-vectors**|Sanu Subramanian et.al.|[1605.09446](http://arxiv.org/abs/1605.09446)|null|
 
-<p align=right>(<a href=#updated-on-20260331>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260401>back to top</a>)</p>
 
 ## Dubbing Papers
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-31**|**BayesInsights: Modelling Software Delivery and Developer Experience with Bayesian Networks at Bloomberg**|Serkan Kirbas et.al.|[2603.29929](http://arxiv.org/abs/2603.29929)|null|
+|**2026-03-31**|**Nonnegative Matrix Factorization in the Component-Wise L1 Norm for Sparse Data**|Giovanni Seraghiti et.al.|[2603.29715](http://arxiv.org/abs/2603.29715)|null|
 |**2026-03-30**|**Exact Skin Critical Phase and Configurable Fractal Wavefunctions via Imaginary Gauge Phase Imprint in Non-Hermitian Lattices**|Ji-Long Dong et.al.|[2603.28153](http://arxiv.org/abs/2603.28153)|null|
 |**2026-03-30**|**MOSS-VoiceGenerator: Create Realistic Voices with Natural Language Descriptions**|Kexin Huang et.al.|[2603.28086](http://arxiv.org/abs/2603.28086)|null|
 |**2026-03-30**|**Can Hierarchical Cross-Modal Fusion Predict Human Perception of AI Dubbed Content?**|Ashwini Dasare et.al.|[2603.28717](http://arxiv.org/abs/2603.28717)|null|
+|**2026-03-30**|**Introducing PxP: A Population Synthesis Framework for Predicting YSO Properties**|J. Peltonen et.al.|[2603.29012](http://arxiv.org/abs/2603.29012)|null|
 |**2026-03-28**|**Irregular Repeating Tidal Disruption Events due to Diffusive Tides**|Shu Yan Lau et.al.|[2603.27132](http://arxiv.org/abs/2603.27132)|null|
 |**2026-03-27**|**DiFlowDubber: Discrete Flow Matching for Automated Video Dubbing via Cross-Modal Alignment and Synchronization**|Ngoc-Son Nguyen et.al.|[2603.14267](http://arxiv.org/abs/2603.14267)|null|
 |**2026-03-27**|**An energetic dirty fireball detected in soft X-rays**|C. -Y. Dai et.al.|[2603.26213](http://arxiv.org/abs/2603.26213)|null|
@@ -5137,5 +5140,5 @@
 |**2013-10-01**|**Stealth Stops and Spin Correlation: A Snowmass White Paper**|Zhenyu Han et.al.|[1310.0356](http://arxiv.org/abs/1310.0356)|null|
 |**2013-09-26**|**PyR@TE: Renormalization Group Equations for General Gauge Theories**|Florian Lyonnet et.al.|[1309.7030](http://arxiv.org/abs/1309.7030)|null|
 
-<p align=right>(<a href=#updated-on-20260331>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260401>back to top</a>)</p>
 
