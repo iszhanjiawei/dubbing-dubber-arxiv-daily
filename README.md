@@ -71,6 +71,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-02**|**GECAM discovery of a peculiar magnetar X-ray burst (MXB 221120) from SGR J1935+2154 associated with a fast radio burst**|Wen-Jun Tan et.al.|[2604.02261](http://arxiv.org/abs/2604.02261)|null|
+|**2026-04-02**|**Distribution of Bell State Entanglement in Qubit Networks via Collision Models**|Mert Doğan et.al.|[2604.01773](http://arxiv.org/abs/2604.01773)|null|
+|**2026-04-02**|**Mechanism for scale-free skin effect in one-dimensional systems**|Shu-Xuan Wang et.al.|[2604.01638](http://arxiv.org/abs/2604.01638)|null|
+|**2026-04-01**|**Camouflage-aware Image-Text Retrieval via Expert Collaboration**|Yao Jiang et.al.|[2604.01251](http://arxiv.org/abs/2604.01251)|null|
 |**2026-03-31**|**BayesInsights: Modelling Software Delivery and Developer Experience with Bayesian Networks at Bloomberg**|Serkan Kirbas et.al.|[2603.29929](http://arxiv.org/abs/2603.29929)|null|
 |**2026-03-31**|**Nonnegative Matrix Factorization in the Component-Wise L1 Norm for Sparse Data**|Giovanni Seraghiti et.al.|[2603.29715](http://arxiv.org/abs/2603.29715)|null|
 |**2026-03-30**|**Exact Skin Critical Phase and Configurable Fractal Wavefunctions via Imaginary Gauge Phase Imprint in Non-Hermitian Lattices**|Ji-Long Dong et.al.|[2603.28153](http://arxiv.org/abs/2603.28153)|null|
