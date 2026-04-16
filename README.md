@@ -1,4 +1,4 @@
-## Updated on 2026.04.15
+## Updated on 2026.04.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -67,14 +67,17 @@
 |**2019-08-20**|**From Text to Sound: A Preliminary Study on Retrieving Sound Effects to Radio Stories**|Songwei Ge et.al.|[1908.07590](http://arxiv.org/abs/1908.07590)|null|
 |**2016-05-30**|**A Solver for a Theory of Strings and Bit-vectors**|Sanu Subramanian et.al.|[1605.09446](http://arxiv.org/abs/1605.09446)|null|
 
-<p align=right>(<a href=#updated-on-20260415>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260416>back to top</a>)</p>
 
 ## Dubbing Papers
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-15**|**Emergent topological phase from a one-dimensional network of defects**|Rahul Singh et.al.|[2604.13532](http://arxiv.org/abs/2604.13532)|null|
+|**2026-04-15**|**Optimal Decentralized Dynamic Energy Management over Asynchronous Peer-to-Peer Transactive Networks via Operator Splitting**|Xi Zhang et.al.|[2604.13404](http://arxiv.org/abs/2604.13404)|null|
 |**2026-04-14**|**PS-TTS: Phonetic Synchronization in Text-to-Speech for Achieving Natural Automated Dubbing**|Changi Hong et.al.|[2604.09111](http://arxiv.org/abs/2604.09111)|null|
 |**2026-04-14**|**CoSyncDiT: Cognitive Synchronous Diffusion Transformer for Movie Dubbing**|Gaoxiang Cong et.al.|[2604.12292](http://arxiv.org/abs/2604.12292)|null|
+|**2026-04-14**|**Persephone's Torch: A 15th Magnitude Quadruply-Lensed Quasar From the Couch Discovered with SPHEREx and the LBT**|Frederick B. Davies et.al.|[2604.13152](http://arxiv.org/abs/2604.13152)|null|
 |**2026-04-11**|**Inflationary magnetogenesis from non-minimal coupling in large- and small-field potentials**|Orlando Luongo et.al.|[2604.10143](http://arxiv.org/abs/2604.10143)|null|
 |**2026-04-10**|**GeRM: A Generative Rendering Model From Physically Realistic to Photorealistic**|Jiayuan Lu et.al.|[2604.09304](http://arxiv.org/abs/2604.09304)|null|
 |**2026-04-10**|**Memory-Efficient Transfer Learning with Fading Side Networks via Masked Dual Path Distillation**|Yutong Zhang et.al.|[2604.09088](http://arxiv.org/abs/2604.09088)|null|
@@ -5158,5 +5161,5 @@
 |**2013-10-01**|**Stealth Stops and Spin Correlation: A Snowmass White Paper**|Zhenyu Han et.al.|[1310.0356](http://arxiv.org/abs/1310.0356)|null|
 |**2013-09-26**|**PyR@TE: Renormalization Group Equations for General Gauge Theories**|Florian Lyonnet et.al.|[1309.7030](http://arxiv.org/abs/1309.7030)|null|
 
-<p align=right>(<a href=#updated-on-20260415>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260416>back to top</a>)</p>
 
