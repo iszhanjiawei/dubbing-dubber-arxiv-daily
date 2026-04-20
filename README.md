@@ -1,4 +1,4 @@
-## Updated on 2026.04.19
+## Updated on 2026.04.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -67,12 +67,14 @@
 |**2019-08-20**|**From Text to Sound: A Preliminary Study on Retrieving Sound Effects to Radio Stories**|Songwei Ge et.al.|[1908.07590](http://arxiv.org/abs/1908.07590)|null|
 |**2016-05-30**|**A Solver for a Theory of Strings and Bit-vectors**|Sanu Subramanian et.al.|[1605.09446](http://arxiv.org/abs/1605.09446)|null|
 
-<p align=right>(<a href=#updated-on-20260419>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260420>back to top</a>)</p>
 
 ## Dubbing Papers
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-17**|**Combining Convolution and Delay Learning in Recurrent Spiking Neural Networks**|Lúcio Folly Sanches Zebendo et.al.|[2604.15997](http://arxiv.org/abs/2604.15997)|null|
+|**2026-04-16**|**Learning Affine-Equivariant Proximal Operators**|Oriel Savir et.al.|[2604.15556](http://arxiv.org/abs/2604.15556)|null|
 |**2026-04-15**|**Emergent topological phase from a one-dimensional network of defects**|Rahul Singh et.al.|[2604.13532](http://arxiv.org/abs/2604.13532)|null|
 |**2026-04-15**|**Optimal Decentralized Dynamic Energy Management over Asynchronous Peer-to-Peer Transactive Networks via Operator Splitting**|Xi Zhang et.al.|[2604.13404](http://arxiv.org/abs/2604.13404)|null|
 |**2026-04-14**|**PS-TTS: Phonetic Synchronization in Text-to-Speech for Achieving Natural Automated Dubbing**|Changi Hong et.al.|[2604.09111](http://arxiv.org/abs/2604.09111)|null|
@@ -5161,5 +5163,5 @@
 |**2013-10-01**|**Stealth Stops and Spin Correlation: A Snowmass White Paper**|Zhenyu Han et.al.|[1310.0356](http://arxiv.org/abs/1310.0356)|null|
 |**2013-09-26**|**PyR@TE: Renormalization Group Equations for General Gauge Theories**|Florian Lyonnet et.al.|[1309.7030](http://arxiv.org/abs/1309.7030)|null|
 
-<p align=right>(<a href=#updated-on-20260419>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260420>back to top</a>)</p>
 
