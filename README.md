@@ -1,4 +1,4 @@
-## Updated on 2026.04.21
+## Updated on 2026.04.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -67,14 +67,16 @@
 |**2019-08-20**|**From Text to Sound: A Preliminary Study on Retrieving Sound Effects to Radio Stories**|Songwei Ge et.al.|[1908.07590](http://arxiv.org/abs/1908.07590)|null|
 |**2016-05-30**|**A Solver for a Theory of Strings and Bit-vectors**|Sanu Subramanian et.al.|[1605.09446](http://arxiv.org/abs/1605.09446)|null|
 
-<p align=right>(<a href=#updated-on-20260421>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260422>back to top</a>)</p>
 
 ## Dubbing Papers
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-21**|**Multi-Step Gaussian Process Propagation for Adaptive Path Planning**|Alex Beaudin et.al.|[2604.19148](http://arxiv.org/abs/2604.19148)|null|
 |**2026-04-20**|**A barotropic alternative to Early Dark Energy for alleviating the $H_0$ tension**|Youri Carloni et.al.|[2604.18053](http://arxiv.org/abs/2604.18053)|null|
 |**2026-04-20**|**QuickScope: Certifying Hard Questions in Dynamic LLM Benchmarks**|Taylor Lundy et.al.|[2604.17842](http://arxiv.org/abs/2604.17842)|null|
+|**2026-04-20**|**Human-Machine Co-Boosted Bug Report Identification with Mutualistic Neural Active Learning**|Guoming Long et.al.|[2604.18862](http://arxiv.org/abs/2604.18862)|null|
 |**2026-04-19**|**FlowC2S: Flowing from Current to Succeeding Frames for Fast and Memory-Efficient Video Continuation**|Hovhannes Margaryan et.al.|[2604.17625](http://arxiv.org/abs/2604.17625)|null|
 |**2026-04-19**|**Probabilistic Programs of Thought**|Poorva Garg et.al.|[2604.17290](http://arxiv.org/abs/2604.17290)|null|
 |**2026-04-17**|**Combining Convolution and Delay Learning in Recurrent Spiking Neural Networks**|Lúcio Folly Sanches Zebendo et.al.|[2604.15997](http://arxiv.org/abs/2604.15997)|null|
@@ -5167,5 +5169,5 @@
 |**2013-10-01**|**Stealth Stops and Spin Correlation: A Snowmass White Paper**|Zhenyu Han et.al.|[1310.0356](http://arxiv.org/abs/1310.0356)|null|
 |**2013-09-26**|**PyR@TE: Renormalization Group Equations for General Gauge Theories**|Florian Lyonnet et.al.|[1309.7030](http://arxiv.org/abs/1309.7030)|null|
 
-<p align=right>(<a href=#updated-on-20260421>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260422>back to top</a>)</p>
 
