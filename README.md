@@ -1,4 +1,4 @@
-## Updated on 2026.04.30
+## Updated on 2026.05.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -67,12 +67,15 @@
 |**2019-08-20**|**From Text to Sound: A Preliminary Study on Retrieving Sound Effects to Radio Stories**|Songwei Ge et.al.|[1908.07590](http://arxiv.org/abs/1908.07590)|null|
 |**2016-05-30**|**A Solver for a Theory of Strings and Bit-vectors**|Sanu Subramanian et.al.|[1605.09446](http://arxiv.org/abs/1605.09446)|null|
 
-<p align=right>(<a href=#updated-on-20260430>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260501>back to top</a>)</p>
 
 ## Dubbing Papers
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-30**|**Stochastic Axion Mixing: A General Mechanism Beyond Decay Constant Constraints**|Hai-Jun Li et.al.|[2604.27784](http://arxiv.org/abs/2604.27784)|null|
+|**2026-04-30**|**LA-Pose: Latent Action Pretraining Meets Pose Estimation**|Zhengqing Wang et.al.|[2604.27448](http://arxiv.org/abs/2604.27448)|null|
+|**2026-04-29**|**Momentum-Space Entanglement Signatures and Spinon Breakdown in the $J_1$-$J_2$ Zig-Zag Heisenberg Chain**|Tom Oeffner et.al.|[2604.27048](http://arxiv.org/abs/2604.27048)|null|
 |**2026-04-28**|**The Creation and Analysis of Government AI Transparency Statements in Australia**|Shidong Pan et.al.|[2604.26075](http://arxiv.org/abs/2604.26075)|null|
 |**2026-04-24**|**Material coherence and life cycle of a wildfire-generated stratospheric vortex**|F. Andrade-Canto et.al.|[2604.22926](http://arxiv.org/abs/2604.22926)|null|
 |**2026-04-23**|**Multi-Nucleon Transfer Reactions and the Creation and the Evolution of the Compound Nucleus**|Matthew Kafker et.al.|[2604.21845](http://arxiv.org/abs/2604.21845)|null|
@@ -5177,5 +5180,5 @@
 |**2013-10-01**|**Stealth Stops and Spin Correlation: A Snowmass White Paper**|Zhenyu Han et.al.|[1310.0356](http://arxiv.org/abs/1310.0356)|null|
 |**2013-09-26**|**PyR@TE: Renormalization Group Equations for General Gauge Theories**|Florian Lyonnet et.al.|[1309.7030](http://arxiv.org/abs/1309.7030)|null|
 
-<p align=right>(<a href=#updated-on-20260430>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260501>back to top</a>)</p>
 
