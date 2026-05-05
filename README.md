@@ -1,4 +1,4 @@
-## Updated on 2026.05.04
+## Updated on 2026.05.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,7 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-04-14**|**PS-TTS: Phonetic Synchronization in Text-to-Speech for Achieving Natural Automated Dubbing**|Changi Hong et.al.|[2604.09111](http://arxiv.org/abs/2604.09111)|null|
+|**2026-05-02**|**PS-TTS: Phonetic Synchronization in Text-to-Speech for Achieving Natural Automated Dubbing**|Changi Hong et.al.|[2604.09111](http://arxiv.org/abs/2604.09111)|null|
 |**2026-04-14**|**CoSyncDiT: Cognitive Synchronous Diffusion Transformer for Movie Dubbing**|Gaoxiang Cong et.al.|[2604.12292](http://arxiv.org/abs/2604.12292)|null|
 |**2026-04-03**|**DiFlowDubber: Discrete Flow Matching for Automated Video Dubbing via Cross-Modal Alignment and Synchronization**|Ngoc-Son Nguyen et.al.|[2603.14267](http://arxiv.org/abs/2603.14267)|null|
 |**2026-03-30**|**MOSS-VoiceGenerator: Create Realistic Voices with Natural Language Descriptions**|Kexin Huang et.al.|[2603.28086](http://arxiv.org/abs/2603.28086)|null|
@@ -67,12 +67,14 @@
 |**2019-08-20**|**From Text to Sound: A Preliminary Study on Retrieving Sound Effects to Radio Stories**|Songwei Ge et.al.|[1908.07590](http://arxiv.org/abs/1908.07590)|null|
 |**2016-05-30**|**A Solver for a Theory of Strings and Bit-vectors**|Sanu Subramanian et.al.|[1605.09446](http://arxiv.org/abs/1605.09446)|null|
 
-<p align=right>(<a href=#updated-on-20260504>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260505>back to top</a>)</p>
 
 ## Dubbing Papers
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-04**|**Detectability of Magnetar-Induced Vacuum Birefringence with IXPE and eXTP**|Fayez Abu-Ajamieh et.al.|[2605.02541](http://arxiv.org/abs/2605.02541)|null|
+|**2026-05-02**|**Towards Visual Query Localization in the 3D World**|Liang Peng et.al.|[2605.01498](http://arxiv.org/abs/2605.01498)|null|
 |**2026-05-01**|**Renormalized entropy production for optimal transport in jump processes: Make conservative forces optimal again**|Andreas Dechant et.al.|[2605.00656](http://arxiv.org/abs/2605.00656)|null|
 |**2026-04-30**|**Multi-Nucleon Transfer Reactions and the Creation and the Evolution of the Compound Nucleus**|Matthew Kafker et.al.|[2604.21845](http://arxiv.org/abs/2604.21845)|null|
 |**2026-04-30**|**Stochastic Axion Mixing: A General Mechanism Beyond Decay Constant Constraints**|Hai-Jun Li et.al.|[2604.27784](http://arxiv.org/abs/2604.27784)|null|
@@ -5182,5 +5184,5 @@
 |**2013-10-01**|**Stealth Stops and Spin Correlation: A Snowmass White Paper**|Zhenyu Han et.al.|[1310.0356](http://arxiv.org/abs/1310.0356)|null|
 |**2013-09-26**|**PyR@TE: Renormalization Group Equations for General Gauge Theories**|Florian Lyonnet et.al.|[1309.7030](http://arxiv.org/abs/1309.7030)|null|
 
-<p align=right>(<a href=#updated-on-20260504>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260505>back to top</a>)</p>
 
