@@ -74,6 +74,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2026-05-08**|**Robust stochastic first order methods in heavy-tailed noise via medoid mini-batch gradient sampling**|Manojlo Vukovic et.al.|[2605.07634](http://arxiv.org/abs/2605.07634)|null|
+|**2026-05-08**|**LLMSYS-HPOBench: Hyperparameter Optimization Benchmark Suite for Real-World LLM Systems**|Siyu Wu et.al.|[2605.08305](http://arxiv.org/abs/2605.08305)|null|
 |**2026-05-07**|**Pro-Tensor Network**|Gen Yue et.al.|[2605.06661](http://arxiv.org/abs/2605.06661)|null|
 |**2026-05-07**|**Efficient Serving for Dynamic Agent Workflows with Prediction-based KV-Cache Management**|Haoyu Zheng et.al.|[2605.06472](http://arxiv.org/abs/2605.06472)|null|
 |**2026-05-07**|**Consistent Geometric Deep Learning via Hilbert Bundles and Cellular Sheaves**|Kartik Tandon et.al.|[2605.06395](http://arxiv.org/abs/2605.06395)|null|
