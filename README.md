@@ -1,4 +1,4 @@
-## Updated on 2026.05.14
+## Updated on 2026.05.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -67,12 +67,13 @@
 |**2019-08-20**|**From Text to Sound: A Preliminary Study on Retrieving Sound Effects to Radio Stories**|Songwei Ge et.al.|[1908.07590](http://arxiv.org/abs/1908.07590)|null|
 |**2016-05-30**|**A Solver for a Theory of Strings and Bit-vectors**|Sanu Subramanian et.al.|[1605.09446](http://arxiv.org/abs/1605.09446)|null|
 
-<p align=right>(<a href=#updated-on-20260514>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260515>back to top</a>)</p>
 
 ## Dubbing Papers
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-14**|**Mitigating stellar radial velocity jitter using orthogonal activity indices and a time-aware neural network**|Jordi Blanco-Pozo et.al.|[2605.04587](http://arxiv.org/abs/2605.04587)|null|
 |**2026-05-13**|**Continual Fine-Tuning of Large Language Models via Program Memory**|Hung Le et.al.|[2605.13162](http://arxiv.org/abs/2605.13162)|null|
 |**2026-05-12**|**Robust Promptable Video Object Segmentation**|Sohyun Lee et.al.|[2605.12006](http://arxiv.org/abs/2605.12006)|null|
 |**2026-05-08**|**Robust stochastic first order methods in heavy-tailed noise via medoid mini-batch gradient sampling**|Manojlo Vukovic et.al.|[2605.07634](http://arxiv.org/abs/2605.07634)|null|
@@ -81,7 +82,6 @@
 |**2026-05-07**|**Efficient Serving for Dynamic Agent Workflows with Prediction-based KV-Cache Management**|Haoyu Zheng et.al.|[2605.06472](http://arxiv.org/abs/2605.06472)|null|
 |**2026-05-07**|**Consistent Geometric Deep Learning via Hilbert Bundles and Cellular Sheaves**|Kartik Tandon et.al.|[2605.06395](http://arxiv.org/abs/2605.06395)|null|
 |**2026-05-07**|**Probing critical phases in quasiperiodic systems via subsystem information capacity**|Huaijin Dong et.al.|[2605.06075](http://arxiv.org/abs/2605.06075)|null|
-|**2026-05-06**|**Mitigating stellar radial velocity jitter using orthogonal activity indices and a time-aware neural network**|Jordi Blanco-Pozo et.al.|[2605.04587](http://arxiv.org/abs/2605.04587)|null|
 |**2026-05-04**|**Detectability of Magnetar-Induced Vacuum Birefringence with IXPE and eXTP**|Fayez Abu-Ajamieh et.al.|[2605.02541](http://arxiv.org/abs/2605.02541)|null|
 |**2026-05-02**|**Towards Visual Query Localization in the 3D World**|Liang Peng et.al.|[2605.01498](http://arxiv.org/abs/2605.01498)|null|
 |**2026-05-01**|**Renormalized entropy production for optimal transport in jump processes: Make conservative forces optimal again**|Andreas Dechant et.al.|[2605.00656](http://arxiv.org/abs/2605.00656)|null|
@@ -5193,5 +5193,5 @@
 |**2013-10-01**|**Stealth Stops and Spin Correlation: A Snowmass White Paper**|Zhenyu Han et.al.|[1310.0356](http://arxiv.org/abs/1310.0356)|null|
 |**2013-09-26**|**PyR@TE: Renormalization Group Equations for General Gauge Theories**|Florian Lyonnet et.al.|[1309.7030](http://arxiv.org/abs/1309.7030)|null|
 
-<p align=right>(<a href=#updated-on-20260514>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260515>back to top</a>)</p>
 
