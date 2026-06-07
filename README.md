@@ -1,4 +1,4 @@
-## Updated on 2026.05.17
+## Updated on 2026.06.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-24**|**RVCBench: Benchmarking the Robustness of Voice Cloning Across Modern Audio Generation Models**|Ruinan Jin et.al.|[2602.00443](http://arxiv.org/abs/2602.00443)|null|
 |**2026-05-02**|**PS-TTS: Phonetic Synchronization in Text-to-Speech for Achieving Natural Automated Dubbing**|Changi Hong et.al.|[2604.09111](http://arxiv.org/abs/2604.09111)|null|
 |**2026-04-14**|**CoSyncDiT: Cognitive Synchronous Diffusion Transformer for Movie Dubbing**|Gaoxiang Cong et.al.|[2604.12292](http://arxiv.org/abs/2604.12292)|null|
 |**2026-04-03**|**DiFlowDubber: Discrete Flow Matching for Automated Video Dubbing via Cross-Modal Alignment and Synchronization**|Ngoc-Son Nguyen et.al.|[2603.14267](http://arxiv.org/abs/2603.14267)|null|
@@ -67,12 +68,29 @@
 |**2019-08-20**|**From Text to Sound: A Preliminary Study on Retrieving Sound Effects to Radio Stories**|Songwei Ge et.al.|[1908.07590](http://arxiv.org/abs/1908.07590)|null|
 |**2016-05-30**|**A Solver for a Theory of Strings and Bit-vectors**|Sanu Subramanian et.al.|[1605.09446](http://arxiv.org/abs/1605.09446)|null|
 
-<p align=right>(<a href=#updated-on-20260517>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260607>back to top</a>)</p>
 
 ## Dubbing Papers
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-04**|**Galaxy morphology dependent (black hole mass)-(velocity dispersion) relations: implications for gravitational wave forecasts and cosmological simulations**|Alister W. Graham et.al.|[2606.05808](http://arxiv.org/abs/2606.05808)|null|
+|**2026-06-02**|**Benchmarking Speech-to-Speech Translation Models**|Alkis Koudounas et.al.|[2606.03241](http://arxiv.org/abs/2606.03241)|null|
+|**2026-06-01**|**Asymptotic Recovery in Fourier Spectral Methods for the Schrödinger Equation with Point Singularities**|Yanjie Li et.al.|[2606.01718](http://arxiv.org/abs/2606.01718)|null|
+|**2026-06-01**|**Agent System Operations: Categorization, Challenges, and Future Directions**|Zexin Wang et.al.|[2606.01581](http://arxiv.org/abs/2606.01581)|null|
+|**2026-05-29**|**Learning Logical Operations for Arbitrary Quantum Error Correction Codes**|Nico Meyer et.al.|[2605.28162](http://arxiv.org/abs/2605.28162)|null|
+|**2026-05-28**|**Majorization precursors to supermodularity and subadditivity on the majorization lattice**|Alexander Stévins et.al.|[2605.30331](http://arxiv.org/abs/2605.30331)|null|
+|**2026-05-28**|**DVSM: Decoder-only View Synthesis Model Done Right**|Cheng Sun et.al.|[2605.29891](http://arxiv.org/abs/2605.29891)|null|
+|**2026-05-28**|**Channel-agnostic finite-temperature phase estimation averaged over variable grids: reconstruction of Green's function for dynamical mean-field theory**|Taichi Kosugi et.al.|[2605.29681](http://arxiv.org/abs/2605.29681)|null|
+|**2026-05-27**|**AI-T2I: Aggregating-and-Isolating Cross-Attention to Diffusion Models for Text-to-Image Synthesis**|Shipeng Cao et.al.|[2605.25763](http://arxiv.org/abs/2605.25763)|null|
+|**2026-05-26**|**Voice "Cloning" is Style Transfer**|Kaitlyn Zhou et.al.|[2605.16578](http://arxiv.org/abs/2605.16578)|null|
+|**2026-05-25**|**FOUND-IT: Foundation-model-first Task-driven 3D Scene Graphs with Granularity on Demand**|Dominic Maggio et.al.|[2605.25371](http://arxiv.org/abs/2605.25371)|null|
+|**2026-05-22**|**NASiC: 3D NAND-based CAM-Selected Multibit CIM Architecture for Efficient On-Device Mixture-of-Experts LLM Inference**|Weikai Xu et.al.|[2605.23294](http://arxiv.org/abs/2605.23294)|null|
+|**2026-05-22**|**A General Quantum Speed Limit for Non-Hermitian Systems**|Zhanxi Wang et.al.|[2605.23250](http://arxiv.org/abs/2605.23250)|null|
+|**2026-05-20**|**The Human-AI Delegation Dilemma: Individual Strategies, Collective Equilibria and Sociotechnical Lock-in**|Angjelin Hila et.al.|[2605.21351](http://arxiv.org/abs/2605.21351)|null|
+|**2026-05-20**|**Accelerating Video Inverse Problem Solvers with Autoregressive Diffusion Models**|Taesung Kwon et.al.|[2605.20624](http://arxiv.org/abs/2605.20624)|null|
+|**2026-05-20**|**SEED: Targeted Data Selection by Weighted Independent Set**|Yuan Zhang et.al.|[2605.15691](http://arxiv.org/abs/2605.15691)|null|
+|**2026-05-15**|**Modeling the probability distribution for cosmological analysis with photometrically classified samples**|Marcos P. Freaza et.al.|[2605.16513](http://arxiv.org/abs/2605.16513)|null|
 |**2026-05-14**|**Mitigating stellar radial velocity jitter using orthogonal activity indices and a time-aware neural network**|Jordi Blanco-Pozo et.al.|[2605.04587](http://arxiv.org/abs/2605.04587)|null|
 |**2026-05-13**|**Continual Fine-Tuning of Large Language Models via Program Memory**|Hung Le et.al.|[2605.13162](http://arxiv.org/abs/2605.13162)|null|
 |**2026-05-12**|**Robust Promptable Video Object Segmentation**|Sohyun Lee et.al.|[2605.12006](http://arxiv.org/abs/2605.12006)|null|
@@ -5193,5 +5211,5 @@
 |**2013-10-01**|**Stealth Stops and Spin Correlation: A Snowmass White Paper**|Zhenyu Han et.al.|[1310.0356](http://arxiv.org/abs/1310.0356)|null|
 |**2013-09-26**|**PyR@TE: Renormalization Group Equations for General Gauge Theories**|Florian Lyonnet et.al.|[1309.7030](http://arxiv.org/abs/1309.7030)|null|
 
-<p align=right>(<a href=#updated-on-20260517>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260607>back to top</a>)</p>
 
