@@ -74,7 +74,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-05**|**The Human-AI Delegation-Verification Dilemma: Individual Strategies, Collective Equilibria and Sociotechnical Lock-in**|Angjelin Hila et.al.|[2605.21351](http://arxiv.org/abs/2605.21351)|null|
 |**2026-06-04**|**Galaxy morphology dependent (black hole mass)-(velocity dispersion) relations: implications for gravitational wave forecasts and cosmological simulations**|Alister W. Graham et.al.|[2606.05808](http://arxiv.org/abs/2606.05808)|null|
+|**2026-06-04**|**Impact of fiducial cosmology in model-agnostic cosmological inference with the BAO feature**|Aseem Paranjape et.al.|[2606.06591](http://arxiv.org/abs/2606.06591)|null|
 |**2026-06-02**|**Benchmarking Speech-to-Speech Translation Models**|Alkis Koudounas et.al.|[2606.03241](http://arxiv.org/abs/2606.03241)|null|
 |**2026-06-01**|**Asymptotic Recovery in Fourier Spectral Methods for the Schrödinger Equation with Point Singularities**|Yanjie Li et.al.|[2606.01718](http://arxiv.org/abs/2606.01718)|null|
 |**2026-06-01**|**Agent System Operations: Categorization, Challenges, and Future Directions**|Zexin Wang et.al.|[2606.01581](http://arxiv.org/abs/2606.01581)|null|
@@ -87,7 +89,6 @@
 |**2026-05-25**|**FOUND-IT: Foundation-model-first Task-driven 3D Scene Graphs with Granularity on Demand**|Dominic Maggio et.al.|[2605.25371](http://arxiv.org/abs/2605.25371)|null|
 |**2026-05-22**|**NASiC: 3D NAND-based CAM-Selected Multibit CIM Architecture for Efficient On-Device Mixture-of-Experts LLM Inference**|Weikai Xu et.al.|[2605.23294](http://arxiv.org/abs/2605.23294)|null|
 |**2026-05-22**|**A General Quantum Speed Limit for Non-Hermitian Systems**|Zhanxi Wang et.al.|[2605.23250](http://arxiv.org/abs/2605.23250)|null|
-|**2026-05-20**|**The Human-AI Delegation Dilemma: Individual Strategies, Collective Equilibria and Sociotechnical Lock-in**|Angjelin Hila et.al.|[2605.21351](http://arxiv.org/abs/2605.21351)|null|
 |**2026-05-20**|**Accelerating Video Inverse Problem Solvers with Autoregressive Diffusion Models**|Taesung Kwon et.al.|[2605.20624](http://arxiv.org/abs/2605.20624)|null|
 |**2026-05-20**|**SEED: Targeted Data Selection by Weighted Independent Set**|Yuan Zhang et.al.|[2605.15691](http://arxiv.org/abs/2605.15691)|null|
 |**2026-05-15**|**Modeling the probability distribution for cosmological analysis with photometrically classified samples**|Marcos P. Freaza et.al.|[2605.16513](http://arxiv.org/abs/2605.16513)|null|
