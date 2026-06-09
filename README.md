@@ -15,6 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-08**|**HoliDubber: Holistic Video Dubbing for Complex Acoustic Scenes via Text-Guided Audio Synthesis**|Wenhao Guan et.al.|[2606.09098](http://arxiv.org/abs/2606.09098)|null|
 |**2026-05-24**|**RVCBench: Benchmarking the Robustness of Voice Cloning Across Modern Audio Generation Models**|Ruinan Jin et.al.|[2602.00443](http://arxiv.org/abs/2602.00443)|null|
 |**2026-05-02**|**PS-TTS: Phonetic Synchronization in Text-to-Speech for Achieving Natural Automated Dubbing**|Changi Hong et.al.|[2604.09111](http://arxiv.org/abs/2604.09111)|null|
 |**2026-04-14**|**CoSyncDiT: Cognitive Synchronous Diffusion Transformer for Movie Dubbing**|Gaoxiang Cong et.al.|[2604.12292](http://arxiv.org/abs/2604.12292)|null|
@@ -74,6 +75,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-08**|**HoliDubber: Holistic Video Dubbing for Complex Acoustic Scenes via Text-Guided Audio Synthesis**|Wenhao Guan et.al.|[2606.09098](http://arxiv.org/abs/2606.09098)|null|
+|**2026-06-07**|**Simplest Nontrivial Maxwellian Random Field Models for Stochastic LoS MIMO Using the Dyadic Green's Function**|Lumeng Xu et.al.|[2606.08463](http://arxiv.org/abs/2606.08463)|null|
+|**2026-06-06**|**Remember with Confidence: Uncertainty Quantification for Spatio-temporal Memory with Probabilistic Guarantees**|Harry Zhang et.al.|[2606.08277](http://arxiv.org/abs/2606.08277)|null|
+|**2026-06-06**|**QnRL: Quantum-Native Reinforcement Learning**|Alexander DeRieux et.al.|[2606.08276](http://arxiv.org/abs/2606.08276)|null|
 |**2026-06-05**|**The Human-AI Delegation-Verification Dilemma: Individual Strategies, Collective Equilibria and Sociotechnical Lock-in**|Angjelin Hila et.al.|[2605.21351](http://arxiv.org/abs/2605.21351)|null|
 |**2026-06-04**|**Galaxy morphology dependent (black hole mass)-(velocity dispersion) relations: implications for gravitational wave forecasts and cosmological simulations**|Alister W. Graham et.al.|[2606.05808](http://arxiv.org/abs/2606.05808)|null|
 |**2026-06-04**|**Impact of fiducial cosmology in model-agnostic cosmological inference with the BAO feature**|Aseem Paranjape et.al.|[2606.06591](http://arxiv.org/abs/2606.06591)|null|
