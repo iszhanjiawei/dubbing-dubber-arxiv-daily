@@ -1,4 +1,4 @@
-## Updated on 2026.06.09
+## Updated on 2026.06.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -69,19 +69,21 @@
 |**2019-08-20**|**From Text to Sound: A Preliminary Study on Retrieving Sound Effects to Radio Stories**|Songwei Ge et.al.|[1908.07590](http://arxiv.org/abs/1908.07590)|null|
 |**2016-05-30**|**A Solver for a Theory of Strings and Bit-vectors**|Sanu Subramanian et.al.|[1605.09446](http://arxiv.org/abs/1605.09446)|null|
 
-<p align=right>(<a href=#updated-on-20260609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260610>back to top</a>)</p>
 
 ## Dubbing Papers
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-09**|**FOUND-IT: Foundation-model-first Task-driven 3D Scene Graphs with Granularity on Demand**|Dominic Maggio et.al.|[2605.25371](http://arxiv.org/abs/2605.25371)|null|
+|**2026-06-09**|**Impact of fiducial cosmology in model-agnostic cosmological inference with the BAO feature**|Aseem Paranjape et.al.|[2606.06591](http://arxiv.org/abs/2606.06591)|null|
+|**2026-06-09**|**Bosonic Cyclic Codes: Trading Stabilizers for Gaussian Non-Clifford Phase Gates**|Owen C. Wetherbee et.al.|[2606.11010](http://arxiv.org/abs/2606.11010)|null|
 |**2026-06-08**|**HoliDubber: Holistic Video Dubbing for Complex Acoustic Scenes via Text-Guided Audio Synthesis**|Wenhao Guan et.al.|[2606.09098](http://arxiv.org/abs/2606.09098)|null|
 |**2026-06-07**|**Simplest Nontrivial Maxwellian Random Field Models for Stochastic LoS MIMO Using the Dyadic Green's Function**|Lumeng Xu et.al.|[2606.08463](http://arxiv.org/abs/2606.08463)|null|
 |**2026-06-06**|**Remember with Confidence: Uncertainty Quantification for Spatio-temporal Memory with Probabilistic Guarantees**|Harry Zhang et.al.|[2606.08277](http://arxiv.org/abs/2606.08277)|null|
 |**2026-06-06**|**QnRL: Quantum-Native Reinforcement Learning**|Alexander DeRieux et.al.|[2606.08276](http://arxiv.org/abs/2606.08276)|null|
 |**2026-06-05**|**The Human-AI Delegation-Verification Dilemma: Individual Strategies, Collective Equilibria and Sociotechnical Lock-in**|Angjelin Hila et.al.|[2605.21351](http://arxiv.org/abs/2605.21351)|null|
 |**2026-06-04**|**Galaxy morphology dependent (black hole mass)-(velocity dispersion) relations: implications for gravitational wave forecasts and cosmological simulations**|Alister W. Graham et.al.|[2606.05808](http://arxiv.org/abs/2606.05808)|null|
-|**2026-06-04**|**Impact of fiducial cosmology in model-agnostic cosmological inference with the BAO feature**|Aseem Paranjape et.al.|[2606.06591](http://arxiv.org/abs/2606.06591)|null|
 |**2026-06-02**|**Benchmarking Speech-to-Speech Translation Models**|Alkis Koudounas et.al.|[2606.03241](http://arxiv.org/abs/2606.03241)|null|
 |**2026-06-01**|**Asymptotic Recovery in Fourier Spectral Methods for the Schrödinger Equation with Point Singularities**|Yanjie Li et.al.|[2606.01718](http://arxiv.org/abs/2606.01718)|null|
 |**2026-06-01**|**Agent System Operations: Categorization, Challenges, and Future Directions**|Zexin Wang et.al.|[2606.01581](http://arxiv.org/abs/2606.01581)|null|
@@ -91,7 +93,6 @@
 |**2026-05-28**|**Channel-agnostic finite-temperature phase estimation averaged over variable grids: reconstruction of Green's function for dynamical mean-field theory**|Taichi Kosugi et.al.|[2605.29681](http://arxiv.org/abs/2605.29681)|null|
 |**2026-05-27**|**AI-T2I: Aggregating-and-Isolating Cross-Attention to Diffusion Models for Text-to-Image Synthesis**|Shipeng Cao et.al.|[2605.25763](http://arxiv.org/abs/2605.25763)|null|
 |**2026-05-26**|**Voice "Cloning" is Style Transfer**|Kaitlyn Zhou et.al.|[2605.16578](http://arxiv.org/abs/2605.16578)|null|
-|**2026-05-25**|**FOUND-IT: Foundation-model-first Task-driven 3D Scene Graphs with Granularity on Demand**|Dominic Maggio et.al.|[2605.25371](http://arxiv.org/abs/2605.25371)|null|
 |**2026-05-22**|**NASiC: 3D NAND-based CAM-Selected Multibit CIM Architecture for Efficient On-Device Mixture-of-Experts LLM Inference**|Weikai Xu et.al.|[2605.23294](http://arxiv.org/abs/2605.23294)|null|
 |**2026-05-22**|**A General Quantum Speed Limit for Non-Hermitian Systems**|Zhanxi Wang et.al.|[2605.23250](http://arxiv.org/abs/2605.23250)|null|
 |**2026-05-20**|**Accelerating Video Inverse Problem Solvers with Autoregressive Diffusion Models**|Taesung Kwon et.al.|[2605.20624](http://arxiv.org/abs/2605.20624)|null|
@@ -5217,5 +5218,5 @@
 |**2013-10-01**|**Stealth Stops and Spin Correlation: A Snowmass White Paper**|Zhenyu Han et.al.|[1310.0356](http://arxiv.org/abs/1310.0356)|null|
 |**2013-09-26**|**PyR@TE: Renormalization Group Equations for General Gauge Theories**|Florian Lyonnet et.al.|[1309.7030](http://arxiv.org/abs/1309.7030)|null|
 
-<p align=right>(<a href=#updated-on-20260609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260610>back to top</a>)</p>
 
