@@ -75,6 +75,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-10**|**bAdag: an adaptive block coordinate gradient method for smooth nonconvex functions**|Giovanni Seraghiti et.al.|[2606.11791](http://arxiv.org/abs/2606.11791)|null|
+|**2026-06-10**|**4DP-QA: Scalable QA for 4D Perception in Vision Language Models**|Seokju Cho et.al.|[2606.11568](http://arxiv.org/abs/2606.11568)|null|
+|**2026-06-10**|**Invariants of Sequential Circuits and Generalized Non-Abelian Statistics**|Shintaro Sato et.al.|[2606.11527](http://arxiv.org/abs/2606.11527)|null|
 |**2026-06-09**|**FOUND-IT: Foundation-model-first Task-driven 3D Scene Graphs with Granularity on Demand**|Dominic Maggio et.al.|[2605.25371](http://arxiv.org/abs/2605.25371)|null|
 |**2026-06-09**|**Impact of fiducial cosmology in model-agnostic cosmological inference with the BAO feature**|Aseem Paranjape et.al.|[2606.06591](http://arxiv.org/abs/2606.06591)|null|
 |**2026-06-09**|**Bosonic Cyclic Codes: Trading Stabilizers for Gaussian Non-Clifford Phase Gates**|Owen C. Wetherbee et.al.|[2606.11010](http://arxiv.org/abs/2606.11010)|null|
