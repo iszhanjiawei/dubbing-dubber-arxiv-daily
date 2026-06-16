@@ -1,4 +1,4 @@
-## Updated on 2026.06.15
+## Updated on 2026.06.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,7 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-06-08**|**HoliDubber: Holistic Video Dubbing for Complex Acoustic Scenes via Text-Guided Audio Synthesis**|Wenhao Guan et.al.|[2606.09098](http://arxiv.org/abs/2606.09098)|null|
+|**2026-06-15**|**HoliDubber: Holistic Video Dubbing for Complex Acoustic Scenes via Text-Guided Audio Synthesis**|Wenhao Guan et.al.|[2606.09098](http://arxiv.org/abs/2606.09098)|null|
 |**2026-05-24**|**RVCBench: Benchmarking the Robustness of Voice Cloning Across Modern Audio Generation Models**|Ruinan Jin et.al.|[2602.00443](http://arxiv.org/abs/2602.00443)|null|
 |**2026-05-02**|**PS-TTS: Phonetic Synchronization in Text-to-Speech for Achieving Natural Automated Dubbing**|Changi Hong et.al.|[2604.09111](http://arxiv.org/abs/2604.09111)|null|
 |**2026-04-14**|**CoSyncDiT: Cognitive Synchronous Diffusion Transformer for Movie Dubbing**|Gaoxiang Cong et.al.|[2604.12292](http://arxiv.org/abs/2604.12292)|null|
@@ -69,20 +69,23 @@
 |**2019-08-20**|**From Text to Sound: A Preliminary Study on Retrieving Sound Effects to Radio Stories**|Songwei Ge et.al.|[1908.07590](http://arxiv.org/abs/1908.07590)|null|
 |**2016-05-30**|**A Solver for a Theory of Strings and Bit-vectors**|Sanu Subramanian et.al.|[1605.09446](http://arxiv.org/abs/1605.09446)|null|
 
-<p align=right>(<a href=#updated-on-20260615>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260616>back to top</a>)</p>
 
 ## Dubbing Papers
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-15**|**HoliDubber: Holistic Video Dubbing for Complex Acoustic Scenes via Text-Guided Audio Synthesis**|Wenhao Guan et.al.|[2606.09098](http://arxiv.org/abs/2606.09098)|null|
+|**2026-06-15**|**Deep Learning Segmentation of Spiral Arms and Bars for 600,000 Galaxies in DESI**|Ashley Spindler et.al.|[2606.16507](http://arxiv.org/abs/2606.16507)|null|
+|**2026-06-15**|**Structure-Semantic Co-optimized Latent Diffusion Model for Fast Visual Anagram Synthesis**|Xiang Gao et.al.|[2606.16241](http://arxiv.org/abs/2606.16241)|null|
 |**2026-06-12**|**Exploring the nature of Galactic unassociated sources detected by the Fermi-LAT**|F. Acero et.al.|[2606.14244](http://arxiv.org/abs/2606.14244)|null|
+|**2026-06-12**|**Event generation for future DIS experiments**|Peter Meinzinger et.al.|[2606.14864](http://arxiv.org/abs/2606.14864)|null|
 |**2026-06-10**|**bAdag: an adaptive block coordinate gradient method for smooth nonconvex functions**|Giovanni Seraghiti et.al.|[2606.11791](http://arxiv.org/abs/2606.11791)|null|
 |**2026-06-10**|**4DP-QA: Scalable QA for 4D Perception in Vision Language Models**|Seokju Cho et.al.|[2606.11568](http://arxiv.org/abs/2606.11568)|null|
 |**2026-06-10**|**Invariants of Sequential Circuits and Generalized Non-Abelian Statistics**|Shintaro Sato et.al.|[2606.11527](http://arxiv.org/abs/2606.11527)|null|
 |**2026-06-09**|**FOUND-IT: Foundation-model-first Task-driven 3D Scene Graphs with Granularity on Demand**|Dominic Maggio et.al.|[2605.25371](http://arxiv.org/abs/2605.25371)|null|
 |**2026-06-09**|**Impact of fiducial cosmology in model-agnostic cosmological inference with the BAO feature**|Aseem Paranjape et.al.|[2606.06591](http://arxiv.org/abs/2606.06591)|null|
 |**2026-06-09**|**Bosonic Cyclic Codes: Trading Stabilizers for Gaussian Non-Clifford Phase Gates**|Owen C. Wetherbee et.al.|[2606.11010](http://arxiv.org/abs/2606.11010)|null|
-|**2026-06-08**|**HoliDubber: Holistic Video Dubbing for Complex Acoustic Scenes via Text-Guided Audio Synthesis**|Wenhao Guan et.al.|[2606.09098](http://arxiv.org/abs/2606.09098)|null|
 |**2026-06-07**|**Simplest Nontrivial Maxwellian Random Field Models for Stochastic LoS MIMO Using the Dyadic Green's Function**|Lumeng Xu et.al.|[2606.08463](http://arxiv.org/abs/2606.08463)|null|
 |**2026-06-06**|**Remember with Confidence: Uncertainty Quantification for Spatio-temporal Memory with Probabilistic Guarantees**|Harry Zhang et.al.|[2606.08277](http://arxiv.org/abs/2606.08277)|null|
 |**2026-06-06**|**QnRL: Quantum-Native Reinforcement Learning**|Alexander DeRieux et.al.|[2606.08276](http://arxiv.org/abs/2606.08276)|null|
@@ -5222,5 +5225,5 @@
 |**2013-10-01**|**Stealth Stops and Spin Correlation: A Snowmass White Paper**|Zhenyu Han et.al.|[1310.0356](http://arxiv.org/abs/1310.0356)|null|
 |**2013-09-26**|**PyR@TE: Renormalization Group Equations for General Gauge Theories**|Florian Lyonnet et.al.|[1309.7030](http://arxiv.org/abs/1309.7030)|null|
 
-<p align=right>(<a href=#updated-on-20260615>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260616>back to top</a>)</p>
 
