@@ -15,6 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-20**|**ISCSLP 2026 CoT-TTS Challenge: Chain-of-Thought Reasoning for Context-Aware Text-to-Speech**|Wei Xue et.al.|[2606.21933](http://arxiv.org/abs/2606.21933)|null|
 |**2026-06-15**|**HoliDubber: Holistic Video Dubbing for Complex Acoustic Scenes via Text-Guided Audio Synthesis**|Wenhao Guan et.al.|[2606.09098](http://arxiv.org/abs/2606.09098)|null|
 |**2026-05-24**|**RVCBench: Benchmarking the Robustness of Voice Cloning Across Modern Audio Generation Models**|Ruinan Jin et.al.|[2602.00443](http://arxiv.org/abs/2602.00443)|null|
 |**2026-05-02**|**PS-TTS: Phonetic Synchronization in Text-to-Speech for Achieving Natural Automated Dubbing**|Changi Hong et.al.|[2604.09111](http://arxiv.org/abs/2604.09111)|null|
@@ -75,6 +76,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-22**|**BEV-Denoise: Learning Intrinsic Noise for Accurate Bird's-Eye-View Semantic Segmentation**|Dooseop Choi et.al.|[2606.22931](http://arxiv.org/abs/2606.22931)|null|
+|**2026-06-21**|**Exact solution of the Seven-Vertex Model on a dynamical lattice**|Mateus da Silva Junca et.al.|[2606.22651](http://arxiv.org/abs/2606.22651)|null|
+|**2026-06-21**|**Percolation of Zero-Weight Paths and the Shape of the Phase Boundary in the Two-Dimensional Random-Bond Ising Model**|Amirhossein Manouchehri et.al.|[2606.22398](http://arxiv.org/abs/2606.22398)|null|
+|**2026-06-21**|**EMU discovery of Thunder: a bow-shock PWN powered by PSR J1631-4722 escaping Nimbus SNR (G336.7+0.5)**|S. Lazarević et.al.|[2606.22354](http://arxiv.org/abs/2606.22354)|null|
+|**2026-06-20**|**ISCSLP 2026 CoT-TTS Challenge: Chain-of-Thought Reasoning for Context-Aware Text-to-Speech**|Wei Xue et.al.|[2606.21933](http://arxiv.org/abs/2606.21933)|null|
 |**2026-06-18**|**Space-time duality approach to (inhomogeneous) integrable quenches**|Riccardo Travaglino et.al.|[2606.20445](http://arxiv.org/abs/2606.20445)|null|
 |**2026-06-18**|**Completeness and Incompleteness for Expanding Gödel-Löb Logics**|Somayeh Chopoghloo et.al.|[2606.20229](http://arxiv.org/abs/2606.20229)|null|
 |**2026-06-18**|**PaAno+: Multiscale Encoding and Cross-Variable Attention for Time Series Anomaly Detection**|Youji Zhu et.al.|[2606.20055](http://arxiv.org/abs/2606.20055)|null|
