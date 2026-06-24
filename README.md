@@ -1,4 +1,4 @@
-## Updated on 2026.06.23
+## Updated on 2026.06.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -70,13 +70,14 @@
 |**2019-08-20**|**From Text to Sound: A Preliminary Study on Retrieving Sound Effects to Radio Stories**|Songwei Ge et.al.|[1908.07590](http://arxiv.org/abs/1908.07590)|null|
 |**2016-05-30**|**A Solver for a Theory of Strings and Bit-vectors**|Sanu Subramanian et.al.|[1605.09446](http://arxiv.org/abs/1605.09446)|null|
 
-<p align=right>(<a href=#updated-on-20260623>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260624>back to top</a>)</p>
 
 ## Dubbing Papers
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2026-06-22**|**BEV-Denoise: Learning Intrinsic Noise for Accurate Bird's-Eye-View Semantic Segmentation**|Dooseop Choi et.al.|[2606.22931](http://arxiv.org/abs/2606.22931)|null|
+|**2026-06-22**|**Anisotropic quenching beyond $z=1$ and its implications for preprocessing around high-redshift galaxy clusters**|Makoto Ando et.al.|[2606.23790](http://arxiv.org/abs/2606.23790)|null|
 |**2026-06-21**|**Exact solution of the Seven-Vertex Model on a dynamical lattice**|Mateus da Silva Junca et.al.|[2606.22651](http://arxiv.org/abs/2606.22651)|null|
 |**2026-06-21**|**Percolation of Zero-Weight Paths and the Shape of the Phase Boundary in the Two-Dimensional Random-Bond Ising Model**|Amirhossein Manouchehri et.al.|[2606.22398](http://arxiv.org/abs/2606.22398)|null|
 |**2026-06-21**|**EMU discovery of Thunder: a bow-shock PWN powered by PSR J1631-4722 escaping Nimbus SNR (G336.7+0.5)**|S. Lazarević et.al.|[2606.22354](http://arxiv.org/abs/2606.22354)|null|
@@ -5239,5 +5240,5 @@
 |**2013-10-01**|**Stealth Stops and Spin Correlation: A Snowmass White Paper**|Zhenyu Han et.al.|[1310.0356](http://arxiv.org/abs/1310.0356)|null|
 |**2013-09-26**|**PyR@TE: Renormalization Group Equations for General Gauge Theories**|Florian Lyonnet et.al.|[1309.7030](http://arxiv.org/abs/1309.7030)|null|
 
-<p align=right>(<a href=#updated-on-20260623>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260624>back to top</a>)</p>
 
