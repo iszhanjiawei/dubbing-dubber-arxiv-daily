@@ -76,6 +76,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-24**|**Heterogeneous and Adept Snapshot Distillation for 3D Semantic Segmentation**|Xiaopei Wu et.al.|[2606.25278](http://arxiv.org/abs/2606.25278)|null|
 |**2026-06-22**|**BEV-Denoise: Learning Intrinsic Noise for Accurate Bird's-Eye-View Semantic Segmentation**|Dooseop Choi et.al.|[2606.22931](http://arxiv.org/abs/2606.22931)|null|
 |**2026-06-22**|**Anisotropic quenching beyond $z=1$ and its implications for preprocessing around high-redshift galaxy clusters**|Makoto Ando et.al.|[2606.23790](http://arxiv.org/abs/2606.23790)|null|
 |**2026-06-21**|**Exact solution of the Seven-Vertex Model on a dynamical lattice**|Mateus da Silva Junca et.al.|[2606.22651](http://arxiv.org/abs/2606.22651)|null|
