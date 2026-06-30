@@ -76,6 +76,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-29**|**DOPD: Dual On-policy Distillation**|Xinlei Yu et.al.|[2606.30626](http://arxiv.org/abs/2606.30626)|null|
+|**2026-06-29**|**TACO: A Test and Check Framework for Robust Pose Graph Optimization**|Emilio Olivastri et.al.|[2606.29851](http://arxiv.org/abs/2606.29851)|null|
+|**2026-06-28**|**Quantum scrambling of algebras of observables: the $\mathbb{Z}_2$ -symmetric case**|Paolo Zanardi et.al.|[2606.29137](http://arxiv.org/abs/2606.29137)|null|
+|**2026-06-27**|**A Novel Latent-Class Attack and its Detection by Class Subspace Orthogonalization**|Guangmingmei Yang et.al.|[2606.29112](http://arxiv.org/abs/2606.29112)|null|
+|**2026-06-26**|**KM-Speaker: Keypoint-Based Style Control for High-Quality Speech-Driven 3D Facial Animation and Dialogue Localization**|Arthur Josi et.al.|[2606.28568](http://arxiv.org/abs/2606.28568)|null|
+|**2026-06-26**|**Surface Water Wave Scattering and the Hydrotope**|Nima Arkani-Hamed et.al.|[2606.28280](http://arxiv.org/abs/2606.28280)|null|
 |**2026-06-24**|**Heterogeneous and Adept Snapshot Distillation for 3D Semantic Segmentation**|Xiaopei Wu et.al.|[2606.25278](http://arxiv.org/abs/2606.25278)|null|
 |**2026-06-22**|**BEV-Denoise: Learning Intrinsic Noise for Accurate Bird's-Eye-View Semantic Segmentation**|Dooseop Choi et.al.|[2606.22931](http://arxiv.org/abs/2606.22931)|null|
 |**2026-06-22**|**Anisotropic quenching beyond $z=1$ and its implications for preprocessing around high-redshift galaxy clusters**|Makoto Ando et.al.|[2606.23790](http://arxiv.org/abs/2606.23790)|null|
