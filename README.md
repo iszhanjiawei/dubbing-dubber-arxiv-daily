@@ -76,7 +76,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-01**|**On the geometry of locally growing Loewner chains**|Eveliina Peltola et.al.|[2607.01142](http://arxiv.org/abs/2607.01142)|null|
 |**2026-06-30**|**TACO: A Test and Check Framework for Robust Pose Graph Optimization**|Emilio Olivastri et.al.|[2606.29851](http://arxiv.org/abs/2606.29851)|null|
+|**2026-06-30**|**Leveraging Phase Information to Boost Unrolled Network Learning for Image Deblurring**|Samira Malek et.al.|[2607.00251](http://arxiv.org/abs/2607.00251)|null|
 |**2026-06-29**|**DOPD: Dual On-policy Distillation**|Xinlei Yu et.al.|[2606.30626](http://arxiv.org/abs/2606.30626)|null|
 |**2026-06-28**|**Quantum scrambling of algebras of observables: the $\mathbb{Z}_2$ -symmetric case**|Paolo Zanardi et.al.|[2606.29137](http://arxiv.org/abs/2606.29137)|null|
 |**2026-06-27**|**A Novel Latent-Class Attack and its Detection by Class Subspace Orthogonalization**|Guangmingmei Yang et.al.|[2606.29112](http://arxiv.org/abs/2606.29112)|null|
