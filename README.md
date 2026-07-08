@@ -15,6 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-07**|**WordVoice: Explicit and Decoupled Multi-Dimensional Word-Level Control for LLM-Based TTS**|Sihang Nie et.al.|[2607.06461](http://arxiv.org/abs/2607.06461)|null|
 |**2026-06-20**|**ISCSLP 2026 CoT-TTS Challenge: Chain-of-Thought Reasoning for Context-Aware Text-to-Speech**|Wei Xue et.al.|[2606.21933](http://arxiv.org/abs/2606.21933)|null|
 |**2026-06-15**|**HoliDubber: Holistic Video Dubbing for Complex Acoustic Scenes via Text-Guided Audio Synthesis**|Wenhao Guan et.al.|[2606.09098](http://arxiv.org/abs/2606.09098)|null|
 |**2026-05-24**|**RVCBench: Benchmarking the Robustness of Voice Cloning Across Modern Audio Generation Models**|Ruinan Jin et.al.|[2602.00443](http://arxiv.org/abs/2602.00443)|null|
@@ -76,7 +77,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-07**|**WordVoice: Explicit and Decoupled Multi-Dimensional Word-Level Control for LLM-Based TTS**|Sihang Nie et.al.|[2607.06461](http://arxiv.org/abs/2607.06461)|null|
+|**2026-07-07**|**Self-Heating and Radiation Hardness Studies of 3nm GAA-FET-Based SRAM with Different Substrate Isolation Techniques**|Albert Lu et.al.|[2607.05789](http://arxiv.org/abs/2607.05789)|null|
 |**2026-07-06**|**EventCoT: Event-centric Video Chain-of-thought for Reasoning Temporal Localization**|Youngkil Song et.al.|[2607.04872](http://arxiv.org/abs/2607.04872)|null|
+|**2026-07-06**|**$α'$ -Bootstrap**|Achilleas Gitsis et.al.|[2607.05487](http://arxiv.org/abs/2607.05487)|null|
 |**2026-07-04**|**Exact solution of the Seven-Vertex Model on a dynamical lattice**|Mateus da Silva Junca et.al.|[2606.22651](http://arxiv.org/abs/2606.22651)|null|
 |**2026-07-04**|**TokAN: Accent Normalization Using Self-Supervised Speech Tokens**|Qibing Bai et.al.|[2607.03928](http://arxiv.org/abs/2607.03928)|null|
 |**2026-07-03**|**Winding charge density wave: intertwining of structural chirality and phase topology of electronic order**|Shun Asano et.al.|[2607.03102](http://arxiv.org/abs/2607.03102)|null|
