@@ -1,4 +1,4 @@
-## Updated on 2026.07.08
+## Updated on 2026.07.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -71,7 +71,7 @@
 |**2019-08-20**|**From Text to Sound: A Preliminary Study on Retrieving Sound Effects to Radio Stories**|Songwei Ge et.al.|[1908.07590](http://arxiv.org/abs/1908.07590)|null|
 |**2016-05-30**|**A Solver for a Theory of Strings and Bit-vectors**|Sanu Subramanian et.al.|[1605.09446](http://arxiv.org/abs/1605.09446)|null|
 
-<p align=right>(<a href=#updated-on-20260708>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260709>back to top</a>)</p>
 
 ## Dubbing Papers
 
@@ -79,6 +79,7 @@
 |---|---|---|---|---|
 |**2026-07-07**|**WordVoice: Explicit and Decoupled Multi-Dimensional Word-Level Control for LLM-Based TTS**|Sihang Nie et.al.|[2607.06461](http://arxiv.org/abs/2607.06461)|null|
 |**2026-07-07**|**Self-Heating and Radiation Hardness Studies of 3nm GAA-FET-Based SRAM with Different Substrate Isolation Techniques**|Albert Lu et.al.|[2607.05789](http://arxiv.org/abs/2607.05789)|null|
+|**2026-07-07**|**Unveiling the Nature of C/2023 A3 (Tsuchinshan-ATLAS): A Multi-Technique Observational Approach**|Goldy Ahuja et.al.|[2607.06769](http://arxiv.org/abs/2607.06769)|null|
 |**2026-07-06**|**EventCoT: Event-centric Video Chain-of-thought for Reasoning Temporal Localization**|Youngkil Song et.al.|[2607.04872](http://arxiv.org/abs/2607.04872)|null|
 |**2026-07-06**|**$α'$ -Bootstrap**|Achilleas Gitsis et.al.|[2607.05487](http://arxiv.org/abs/2607.05487)|null|
 |**2026-07-04**|**Exact solution of the Seven-Vertex Model on a dynamical lattice**|Mateus da Silva Junca et.al.|[2606.22651](http://arxiv.org/abs/2606.22651)|null|
@@ -5256,5 +5257,5 @@
 |**2013-10-01**|**Stealth Stops and Spin Correlation: A Snowmass White Paper**|Zhenyu Han et.al.|[1310.0356](http://arxiv.org/abs/1310.0356)|null|
 |**2013-09-26**|**PyR@TE: Renormalization Group Equations for General Gauge Theories**|Florian Lyonnet et.al.|[1309.7030](http://arxiv.org/abs/1309.7030)|null|
 
-<p align=right>(<a href=#updated-on-20260708>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260709>back to top</a>)</p>
 
