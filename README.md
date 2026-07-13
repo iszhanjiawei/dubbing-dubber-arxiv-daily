@@ -77,6 +77,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-09**|**Dark Phoenix: dark matter relic from its own decay**|Debasish Borah et.al.|[2607.08838](http://arxiv.org/abs/2607.08838)|null|
 |**2026-07-08**|**Physics-Guided Biomechanical Gait Adaptation for Humanoid Locomotion on Extreme Sloped Terrains**|Xuanyu Chen et.al.|[2607.07830](http://arxiv.org/abs/2607.07830)|null|
 |**2026-07-07**|**WordVoice: Explicit and Decoupled Multi-Dimensional Word-Level Control for LLM-Based TTS**|Sihang Nie et.al.|[2607.06461](http://arxiv.org/abs/2607.06461)|null|
 |**2026-07-07**|**Self-Heating and Radiation Hardness Studies of 3nm GAA-FET-Based SRAM with Different Substrate Isolation Techniques**|Albert Lu et.al.|[2607.05789](http://arxiv.org/abs/2607.05789)|null|
