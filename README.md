@@ -77,6 +77,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-13**|**$\mathtt{Q^2SAR}$ : overcoming classical bottlenecks in drug discovery via quantum multiple kernel learning**|Mariano Caruso et.al.|[2607.11701](http://arxiv.org/abs/2607.11701)|null|
+|**2026-07-12**|**Generalizations of nets and Latin squares**|Brian Curtin et.al.|[2607.10890](http://arxiv.org/abs/2607.10890)|null|
+|**2026-07-12**|**RED-SEGA:Resilient Decentralized Stochastic Proximal Optimization with Gradient Sketching over Time-Varying Networks**|Jinhui Hu et.al.|[2607.10791](http://arxiv.org/abs/2607.10791)|null|
+|**2026-07-10**|**Perturbative aspects of analogue FLRW spacetime Jellium models**|Matheus E. Pereira et.al.|[2607.09843](http://arxiv.org/abs/2607.09843)|null|
 |**2026-07-09**|**Dark Phoenix: dark matter relic from its own decay**|Debasish Borah et.al.|[2607.08838](http://arxiv.org/abs/2607.08838)|null|
 |**2026-07-08**|**Physics-Guided Biomechanical Gait Adaptation for Humanoid Locomotion on Extreme Sloped Terrains**|Xuanyu Chen et.al.|[2607.07830](http://arxiv.org/abs/2607.07830)|null|
 |**2026-07-07**|**WordVoice: Explicit and Decoupled Multi-Dimensional Word-Level Control for LLM-Based TTS**|Sihang Nie et.al.|[2607.06461](http://arxiv.org/abs/2607.06461)|null|
