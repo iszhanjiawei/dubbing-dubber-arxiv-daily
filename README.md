@@ -78,6 +78,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-16**|**Rare Concept Generation via Counterfactual Inference in Diffusion Models**|Zhengyuan Jiang et.al.|[2607.14765](http://arxiv.org/abs/2607.14765)|null|
 |**2026-07-15**|**AutoSIFT: Automatic Style Sifting for Controllable Speech Generation with Arbitrary Style Infilling**|Haowei Lou et.al.|[2607.12706](http://arxiv.org/abs/2607.12706)|null|
 |**2026-07-15**|**$\texttt{iNORG}$ : An open-source quantum impurity solver package based on the natural orbitals renormalization group**|Jia-Ming Wang et.al.|[2607.13993](http://arxiv.org/abs/2607.13993)|null|
 |**2026-07-13**|**$\mathtt{Q^2SAR}$ : overcoming classical bottlenecks in drug discovery via quantum multiple kernel learning**|Mariano Caruso et.al.|[2607.11701](http://arxiv.org/abs/2607.11701)|null|
