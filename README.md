@@ -78,6 +78,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-22**|**Perturbatively Stable Self-Correcting Classical Memory from Gauge Averaging**|Ryan Thorngren et.al.|[2607.20605](http://arxiv.org/abs/2607.20605)|null|
 |**2026-07-20**|**Calculus of Robinet: completely positive reconstruction of time-averaged diffusive quantum trajectories**|Hector Hutin et.al.|[2607.18392](http://arxiv.org/abs/2607.18392)|null|
 |**2026-07-19**|**OrderMoE: An expert similarity driven distributed edge MoE inference**|Xin Yuan et.al.|[2607.17154](http://arxiv.org/abs/2607.17154)|null|
 |**2026-07-18**|**DORS: Dynamic Attention Routing for Diffusion-based Object Removal in Dense Scenes**|Haitong Tang et.al.|[2607.16656](http://arxiv.org/abs/2607.16656)|null|
