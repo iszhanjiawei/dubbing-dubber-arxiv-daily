@@ -78,6 +78,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-26**|**GNM Head: A Generative aNthropometric Model of the human head**|Stylianos Ploumpis et.al.|[2607.23687](http://arxiv.org/abs/2607.23687)|null|
 |**2026-07-24**|**Calculus of Robinet: completely positive reconstruction of time-averaged diffusive quantum trajectories**|Hector Hutin et.al.|[2607.18392](http://arxiv.org/abs/2607.18392)|null|
 |**2026-07-24**|**Inertial Asynchronous Computation**|Doruk Efe Gökmen et.al.|[2607.21965](http://arxiv.org/abs/2607.21965)|null|
 |**2026-07-22**|**Perturbatively Stable Self-Correcting Classical Memory from Gauge Averaging**|Ryan Thorngren et.al.|[2607.20605](http://arxiv.org/abs/2607.20605)|null|
