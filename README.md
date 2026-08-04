@@ -78,6 +78,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-03**|**SwanTale: Unified Multi-Speaker Speech and Audio Generation for Instruct and Zero-Shot Tasks**|Yu Zhang et.al.|[2608.02023](http://arxiv.org/abs/2608.02023)|null|
+|**2026-08-02**|**Generalizations of nets and Latin squares**|Brian Curtin et.al.|[2607.10890](http://arxiv.org/abs/2607.10890)|null|
+|**2026-08-02**|**Spin-chirality-driven nonrelativistic Edelstein effects in two-dimensional antiferromagnets**|Hao Zuo et.al.|[2608.00948](http://arxiv.org/abs/2608.00948)|null|
 |**2026-07-30**|**Non-conformal obstructions to bubble expansion**|David Mateos et.al.|[2607.27874](http://arxiv.org/abs/2607.27874)|null|
 |**2026-07-30**|**The VORTEX cavity for the RADES axion haloscope**|Jose María García-Barceló et.al.|[2607.28883](http://arxiv.org/abs/2607.28883)|null|
 |**2026-07-28**|**Detecting quantum phase transitions via shallow variational quantum circuits**|Ching-Yu Huang et.al.|[2607.25345](http://arxiv.org/abs/2607.25345)|null|
@@ -93,7 +96,6 @@
 |**2026-07-15**|**AutoSIFT: Automatic Style Sifting for Controllable Speech Generation with Arbitrary Style Infilling**|Haowei Lou et.al.|[2607.12706](http://arxiv.org/abs/2607.12706)|null|
 |**2026-07-15**|**$\texttt{iNORG}$ : An open-source quantum impurity solver package based on the natural orbitals renormalization group**|Jia-Ming Wang et.al.|[2607.13993](http://arxiv.org/abs/2607.13993)|null|
 |**2026-07-13**|**$\mathtt{Q^2SAR}$ : overcoming classical bottlenecks in drug discovery via quantum multiple kernel learning**|Mariano Caruso et.al.|[2607.11701](http://arxiv.org/abs/2607.11701)|null|
-|**2026-07-12**|**Generalizations of nets and Latin squares**|Brian Curtin et.al.|[2607.10890](http://arxiv.org/abs/2607.10890)|null|
 |**2026-07-12**|**RED-SEGA:Resilient Decentralized Stochastic Proximal Optimization with Gradient Sketching over Time-Varying Networks**|Jinhui Hu et.al.|[2607.10791](http://arxiv.org/abs/2607.10791)|null|
 |**2026-07-10**|**Perturbative aspects of analogue FLRW spacetime Jellium models**|Matheus E. Pereira et.al.|[2607.09843](http://arxiv.org/abs/2607.09843)|null|
 |**2026-07-09**|**Dark Phoenix: dark matter relic from its own decay**|Debasish Borah et.al.|[2607.08838](http://arxiv.org/abs/2607.08838)|null|
