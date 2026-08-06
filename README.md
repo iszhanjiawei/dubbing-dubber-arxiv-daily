@@ -78,7 +78,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-08-03**|**SwanTale: Unified Multi-Speaker Speech and Audio Generation for Instruct and Zero-Shot Tasks**|Yu Zhang et.al.|[2608.02023](http://arxiv.org/abs/2608.02023)|null|
+|**2026-08-05**|**Exo2EgoPose: Leveraging Exocentric Demonstrations for Vision-Language guided Egocentric 3D Hand Pose Forecasting**|Zhaofeng Shi et.al.|[2607.15890](http://arxiv.org/abs/2607.15890)|null|
+|**2026-08-05**|**Cold Dark Matter and Self-Interacting Dark Matter Interpretations of Cloud-9**|Morgan Ohana et.al.|[2608.04362](http://arxiv.org/abs/2608.04362)|null|
+|**2026-08-04**|**SwanTale: Unified Multi-Speaker Speech and Audio Generation for Instruct and Zero-Shot Tasks**|Yu Zhang et.al.|[2608.02023](http://arxiv.org/abs/2608.02023)|null|
 |**2026-08-02**|**Generalizations of nets and Latin squares**|Brian Curtin et.al.|[2607.10890](http://arxiv.org/abs/2607.10890)|null|
 |**2026-08-02**|**Spin-chirality-driven nonrelativistic Edelstein effects in two-dimensional antiferromagnets**|Hao Zuo et.al.|[2608.00948](http://arxiv.org/abs/2608.00948)|null|
 |**2026-07-30**|**Non-conformal obstructions to bubble expansion**|David Mateos et.al.|[2607.27874](http://arxiv.org/abs/2607.27874)|null|
@@ -91,7 +93,6 @@
 |**2026-07-19**|**OrderMoE: An expert similarity driven distributed edge MoE inference**|Xin Yuan et.al.|[2607.17154](http://arxiv.org/abs/2607.17154)|null|
 |**2026-07-18**|**DORS: Dynamic Attention Routing for Diffusion-based Object Removal in Dense Scenes**|Haitong Tang et.al.|[2607.16656](http://arxiv.org/abs/2607.16656)|null|
 |**2026-07-17**|**Qubit encodings in the p-orbital-valley spectrum for enhanced coherence and tunable two-qubit interaction**|John H. Caporaletti et.al.|[2607.15993](http://arxiv.org/abs/2607.15993)|null|
-|**2026-07-17**|**Exo2EgoPose: Leveraging Exocentric Demonstrations for Vision-Language guided Egocentric 3D Hand Pose Forecasting**|Zhaofeng Shi et.al.|[2607.15890](http://arxiv.org/abs/2607.15890)|null|
 |**2026-07-16**|**Rare Concept Generation via Counterfactual Inference in Diffusion Models**|Zhengyuan Jiang et.al.|[2607.14765](http://arxiv.org/abs/2607.14765)|null|
 |**2026-07-15**|**AutoSIFT: Automatic Style Sifting for Controllable Speech Generation with Arbitrary Style Infilling**|Haowei Lou et.al.|[2607.12706](http://arxiv.org/abs/2607.12706)|null|
 |**2026-07-15**|**$\texttt{iNORG}$ : An open-source quantum impurity solver package based on the natural orbitals renormalization group**|Jia-Ming Wang et.al.|[2607.13993](http://arxiv.org/abs/2607.13993)|null|
