@@ -78,6 +78,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-06**|**Annular Majorana mode in a superconducting topological insulator**|Shengshan Qin et.al.|[2608.05632](http://arxiv.org/abs/2608.05632)|null|
 |**2026-08-05**|**Exo2EgoPose: Leveraging Exocentric Demonstrations for Vision-Language guided Egocentric 3D Hand Pose Forecasting**|Zhaofeng Shi et.al.|[2607.15890](http://arxiv.org/abs/2607.15890)|null|
 |**2026-08-05**|**Cold Dark Matter and Self-Interacting Dark Matter Interpretations of Cloud-9**|Morgan Ohana et.al.|[2608.04362](http://arxiv.org/abs/2608.04362)|null|
 |**2026-08-04**|**SwanTale: Unified Multi-Speaker Speech and Audio Generation for Instruct and Zero-Shot Tasks**|Yu Zhang et.al.|[2608.02023](http://arxiv.org/abs/2608.02023)|null|
