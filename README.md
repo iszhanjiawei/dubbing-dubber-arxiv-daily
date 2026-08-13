@@ -78,6 +78,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-12**|**OrderMoE: An expert similarity driven distributed edge MoE inference**|Xin Yuan et.al.|[2607.17154](http://arxiv.org/abs/2607.17154)|null|
+|**2026-08-12**|**Inferring Empirical Sound Resource Bounds via Symbolic Execution and Linear Programming (Extended Version)**|Samuel Frontull et.al.|[2608.11833](http://arxiv.org/abs/2608.11833)|null|
+|**2026-08-12**|**On Weak Bisimilarities in CCSK**|Baptiste Vallée et.al.|[2608.11531](http://arxiv.org/abs/2608.11531)|null|
+|**2026-08-12**|**How to Identify a Majoron: Effective Field Theories of Spontaneous Lepton Number Breaking**|Carla Biggio et.al.|[2608.11522](http://arxiv.org/abs/2608.11522)|null|
 |**2026-08-06**|**Annular Majorana mode in a superconducting topological insulator**|Shengshan Qin et.al.|[2608.05632](http://arxiv.org/abs/2608.05632)|null|
 |**2026-08-05**|**Exo2EgoPose: Leveraging Exocentric Demonstrations for Vision-Language guided Egocentric 3D Hand Pose Forecasting**|Zhaofeng Shi et.al.|[2607.15890](http://arxiv.org/abs/2607.15890)|null|
 |**2026-08-05**|**Cold Dark Matter and Self-Interacting Dark Matter Interpretations of Cloud-9**|Morgan Ohana et.al.|[2608.04362](http://arxiv.org/abs/2608.04362)|null|
@@ -91,7 +95,6 @@
 |**2026-07-24**|**Calculus of Robinet: completely positive reconstruction of time-averaged diffusive quantum trajectories**|Hector Hutin et.al.|[2607.18392](http://arxiv.org/abs/2607.18392)|null|
 |**2026-07-24**|**Inertial Asynchronous Computation**|Doruk Efe Gökmen et.al.|[2607.21965](http://arxiv.org/abs/2607.21965)|null|
 |**2026-07-22**|**Perturbatively Stable Self-Correcting Classical Memory from Gauge Averaging**|Ryan Thorngren et.al.|[2607.20605](http://arxiv.org/abs/2607.20605)|null|
-|**2026-07-19**|**OrderMoE: An expert similarity driven distributed edge MoE inference**|Xin Yuan et.al.|[2607.17154](http://arxiv.org/abs/2607.17154)|null|
 |**2026-07-18**|**DORS: Dynamic Attention Routing for Diffusion-based Object Removal in Dense Scenes**|Haitong Tang et.al.|[2607.16656](http://arxiv.org/abs/2607.16656)|null|
 |**2026-07-17**|**Qubit encodings in the p-orbital-valley spectrum for enhanced coherence and tunable two-qubit interaction**|John H. Caporaletti et.al.|[2607.15993](http://arxiv.org/abs/2607.15993)|null|
 |**2026-07-16**|**Rare Concept Generation via Counterfactual Inference in Diffusion Models**|Zhengyuan Jiang et.al.|[2607.14765](http://arxiv.org/abs/2607.14765)|null|
