@@ -15,6 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-13**|**VoxAudio: Vocalized Audio Synthesis via Multi-Reward Autoregressive Flow Matching**|Wenxiang Guo et.al.|[2608.12951](http://arxiv.org/abs/2608.12951)|null|
 |**2026-07-15**|**AutoSIFT: Automatic Style Sifting for Controllable Speech Generation with Arbitrary Style Infilling**|Haowei Lou et.al.|[2607.12706](http://arxiv.org/abs/2607.12706)|null|
 |**2026-07-07**|**WordVoice: Explicit and Decoupled Multi-Dimensional Word-Level Control for LLM-Based TTS**|Sihang Nie et.al.|[2607.06461](http://arxiv.org/abs/2607.06461)|null|
 |**2026-06-20**|**ISCSLP 2026 CoT-TTS Challenge: Chain-of-Thought Reasoning for Context-Aware Text-to-Speech**|Wei Xue et.al.|[2606.21933](http://arxiv.org/abs/2606.21933)|null|
@@ -78,10 +79,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-13**|**Symmetry-Breaking De Novo Crystal Generation via Markovian Jump Diffusion**|Van Khoa Nguyen et.al.|[2608.13457](http://arxiv.org/abs/2608.13457)|null|
+|**2026-08-13**|**VoxAudio: Vocalized Audio Synthesis via Multi-Reward Autoregressive Flow Matching**|Wenxiang Guo et.al.|[2608.12951](http://arxiv.org/abs/2608.12951)|null|
 |**2026-08-12**|**OrderMoE: An expert similarity driven distributed edge MoE inference**|Xin Yuan et.al.|[2607.17154](http://arxiv.org/abs/2607.17154)|null|
 |**2026-08-12**|**Inferring Empirical Sound Resource Bounds via Symbolic Execution and Linear Programming (Extended Version)**|Samuel Frontull et.al.|[2608.11833](http://arxiv.org/abs/2608.11833)|null|
 |**2026-08-12**|**On Weak Bisimilarities in CCSK**|Baptiste Vallée et.al.|[2608.11531](http://arxiv.org/abs/2608.11531)|null|
 |**2026-08-12**|**How to Identify a Majoron: Effective Field Theories of Spontaneous Lepton Number Breaking**|Carla Biggio et.al.|[2608.11522](http://arxiv.org/abs/2608.11522)|null|
+|**2026-08-12**|**Spontaneous Scoto-leptogenesis**|Arghyajit Datta et.al.|[2608.12497](http://arxiv.org/abs/2608.12497)|null|
 |**2026-08-06**|**Annular Majorana mode in a superconducting topological insulator**|Shengshan Qin et.al.|[2608.05632](http://arxiv.org/abs/2608.05632)|null|
 |**2026-08-05**|**Exo2EgoPose: Leveraging Exocentric Demonstrations for Vision-Language guided Egocentric 3D Hand Pose Forecasting**|Zhaofeng Shi et.al.|[2607.15890](http://arxiv.org/abs/2607.15890)|null|
 |**2026-08-05**|**Cold Dark Matter and Self-Interacting Dark Matter Interpretations of Cloud-9**|Morgan Ohana et.al.|[2608.04362](http://arxiv.org/abs/2608.04362)|null|
