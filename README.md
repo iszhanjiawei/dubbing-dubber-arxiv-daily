@@ -15,7 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-08-13**|**VoxAudio: Vocalized Audio Synthesis via Multi-Reward Autoregressive Flow Matching**|Wenxiang Guo et.al.|[2608.12951](http://arxiv.org/abs/2608.12951)|null|
+|**2026-08-17**|**VoxAudio: Vocalized Audio Synthesis via Multi-Reward Autoregressive Flow Matching**|Wenxiang Guo et.al.|[2608.12951](http://arxiv.org/abs/2608.12951)|null|
 |**2026-07-15**|**AutoSIFT: Automatic Style Sifting for Controllable Speech Generation with Arbitrary Style Infilling**|Haowei Lou et.al.|[2607.12706](http://arxiv.org/abs/2607.12706)|null|
 |**2026-07-07**|**WordVoice: Explicit and Decoupled Multi-Dimensional Word-Level Control for LLM-Based TTS**|Sihang Nie et.al.|[2607.06461](http://arxiv.org/abs/2607.06461)|null|
 |**2026-06-20**|**ISCSLP 2026 CoT-TTS Challenge: Chain-of-Thought Reasoning for Context-Aware Text-to-Speech**|Wei Xue et.al.|[2606.21933](http://arxiv.org/abs/2606.21933)|null|
@@ -79,8 +79,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-17**|**VoxAudio: Vocalized Audio Synthesis via Multi-Reward Autoregressive Flow Matching**|Wenxiang Guo et.al.|[2608.12951](http://arxiv.org/abs/2608.12951)|null|
+|**2026-08-17**|**Higher spin dynamics in Weyl reference frame**|Gianfranco De Simone et.al.|[2608.16781](http://arxiv.org/abs/2608.16781)|null|
+|**2026-08-16**|**CineDub: Scaling End-to-End Video Dubbing to Multi-Speaker Dialogues with Coherent Sound Effects**|Yusheng Dai et.al.|[2608.15734](http://arxiv.org/abs/2608.15734)|null|
+|**2026-08-14**|**Geometric signatures of the onset of many-body ergodicity**|Chris Ventura-Meinersen et.al.|[2608.14818](http://arxiv.org/abs/2608.14818)|null|
 |**2026-08-13**|**Symmetry-Breaking De Novo Crystal Generation via Markovian Jump Diffusion**|Van Khoa Nguyen et.al.|[2608.13457](http://arxiv.org/abs/2608.13457)|null|
-|**2026-08-13**|**VoxAudio: Vocalized Audio Synthesis via Multi-Reward Autoregressive Flow Matching**|Wenxiang Guo et.al.|[2608.12951](http://arxiv.org/abs/2608.12951)|null|
 |**2026-08-12**|**OrderMoE: An expert similarity driven distributed edge MoE inference**|Xin Yuan et.al.|[2607.17154](http://arxiv.org/abs/2607.17154)|null|
 |**2026-08-12**|**Inferring Empirical Sound Resource Bounds via Symbolic Execution and Linear Programming (Extended Version)**|Samuel Frontull et.al.|[2608.11833](http://arxiv.org/abs/2608.11833)|null|
 |**2026-08-12**|**On Weak Bisimilarities in CCSK**|Baptiste Vallée et.al.|[2608.11531](http://arxiv.org/abs/2608.11531)|null|
