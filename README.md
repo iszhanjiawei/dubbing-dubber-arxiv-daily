@@ -79,6 +79,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-18**|**GNM Head: A Generative aNthropometric Model of the human head**|Stylianos Ploumpis et.al.|[2607.23687](http://arxiv.org/abs/2607.23687)|null|
 |**2026-08-17**|**VoxAudio: Vocalized Audio Synthesis via Multi-Reward Autoregressive Flow Matching**|Wenxiang Guo et.al.|[2608.12951](http://arxiv.org/abs/2608.12951)|null|
 |**2026-08-17**|**Higher spin dynamics in Weyl reference frame**|Gianfranco De Simone et.al.|[2608.16781](http://arxiv.org/abs/2608.16781)|null|
 |**2026-08-16**|**CineDub: Scaling End-to-End Video Dubbing to Multi-Speaker Dialogues with Coherent Sound Effects**|Yusheng Dai et.al.|[2608.15734](http://arxiv.org/abs/2608.15734)|null|
@@ -98,7 +99,6 @@
 |**2026-07-30**|**Non-conformal obstructions to bubble expansion**|David Mateos et.al.|[2607.27874](http://arxiv.org/abs/2607.27874)|null|
 |**2026-07-30**|**The VORTEX cavity for the RADES axion haloscope**|Jose María García-Barceló et.al.|[2607.28883](http://arxiv.org/abs/2607.28883)|null|
 |**2026-07-28**|**Detecting quantum phase transitions via shallow variational quantum circuits**|Ching-Yu Huang et.al.|[2607.25345](http://arxiv.org/abs/2607.25345)|null|
-|**2026-07-26**|**GNM Head: A Generative aNthropometric Model of the human head**|Stylianos Ploumpis et.al.|[2607.23687](http://arxiv.org/abs/2607.23687)|null|
 |**2026-07-24**|**Calculus of Robinet: completely positive reconstruction of time-averaged diffusive quantum trajectories**|Hector Hutin et.al.|[2607.18392](http://arxiv.org/abs/2607.18392)|null|
 |**2026-07-24**|**Inertial Asynchronous Computation**|Doruk Efe Gökmen et.al.|[2607.21965](http://arxiv.org/abs/2607.21965)|null|
 |**2026-07-22**|**Perturbatively Stable Self-Correcting Classical Memory from Gauge Averaging**|Ryan Thorngren et.al.|[2607.20605](http://arxiv.org/abs/2607.20605)|null|
