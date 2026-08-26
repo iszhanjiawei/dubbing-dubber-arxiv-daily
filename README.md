@@ -79,6 +79,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-25**|**Scalable datacenter replication with mostly-synchronous consensus on hardware**|Davide Rovelli et.al.|[2608.24622](http://arxiv.org/abs/2608.24622)|null|
 |**2026-08-22**|**Even-harmonic generation from topological edge states in generalized Su-Schrieffer-Heeger models**|Chi-Ting Liu et.al.|[2608.22136](http://arxiv.org/abs/2608.22136)|null|
 |**2026-08-18**|**GNM Head: A Generative aNthropometric Model of the human head**|Stylianos Ploumpis et.al.|[2607.23687](http://arxiv.org/abs/2607.23687)|null|
 |**2026-08-17**|**VoxAudio: Vocalized Audio Synthesis via Multi-Reward Autoregressive Flow Matching**|Wenxiang Guo et.al.|[2608.12951](http://arxiv.org/abs/2608.12951)|null|
