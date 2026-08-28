@@ -79,6 +79,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-27**|**Metallogenic quantum criticality: Fermi surface nucleation at transitions between gapped phases**|Zhengyan Darius Shi et.al.|[2608.27453](http://arxiv.org/abs/2608.27453)|null|
+|**2026-08-27**|**UGM: A Unified Framework and New Perspectives for Accelerated Gradient Methods in Smooth and Strongly Convex Optimization**|Danqing Zhou et.al.|[2608.27368](http://arxiv.org/abs/2608.27368)|null|
+|**2026-08-27**|**Chiral soliton lattice in inhomogeneous magnetic fields**|Tomas Brauner et.al.|[2608.27319](http://arxiv.org/abs/2608.27319)|null|
 |**2026-08-26**|**Dark Matters of Principle: Principles in the Dark Matter Paradigm**|Patrick Duerr et.al.|[2608.25954](http://arxiv.org/abs/2608.25954)|null|
 |**2026-08-26**|**LP-Infinity: overcoming limits to the number of lifetime positions in the COS FUV channel**|David J. Sahnow et.al.|[2608.25863](http://arxiv.org/abs/2608.25863)|null|
 |**2026-08-26**|**D3ER: Supporting Multi-Modal Recommendation via Disentangle and Distillation-based Dynamic Ensemble**|Bingnan Wang et.al.|[2608.25737](http://arxiv.org/abs/2608.25737)|null|
