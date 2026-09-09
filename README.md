@@ -79,6 +79,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-07**|**Global and local degree conditions for matchability**|Ron Aharoni et.al.|[2609.07161](http://arxiv.org/abs/2609.07161)|null|
+|**2026-09-05**|**TBDub: Production-Oriented Visual Dubbing**|Bihan Li et.al.|[2609.06144](http://arxiv.org/abs/2609.06144)|null|
 |**2026-09-03**|**Alignment-Free Text-Audiobox for Voice Dubbing and Full-Duplex Dialogue Synthesis**|Sanyuan Chen et.al.|[2609.03992](http://arxiv.org/abs/2609.03992)|null|
 |**2026-09-03**|**Unravelling the Li-Haldane Conjecture with the Projected Ensemble**|Daniel Spasic-Mlacak et.al.|[2609.03833](http://arxiv.org/abs/2609.03833)|null|
 |**2026-08-28**|**Is Prosody Lost in Translation? Fine-Grained Cross-Lingual Prosody Similarity Across Languages**|Haopeng Xie et.al.|[2608.27848](http://arxiv.org/abs/2608.27848)|null|
