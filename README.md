@@ -1,4 +1,4 @@
-## Updated on 2026.09.09
+## Updated on 2026.09.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -73,12 +73,16 @@
 |**2019-08-20**|**From Text to Sound: A Preliminary Study on Retrieving Sound Effects to Radio Stories**|Songwei Ge et.al.|[1908.07590](http://arxiv.org/abs/1908.07590)|null|
 |**2016-05-30**|**A Solver for a Theory of Strings and Bit-vectors**|Sanu Subramanian et.al.|[1605.09446](http://arxiv.org/abs/1605.09446)|null|
 
-<p align=right>(<a href=#updated-on-20260909>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260910>back to top</a>)</p>
 
 ## Dubbing Papers
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-09**|**Symplectic Hopf Insulator: Delicate Topology in Bosonic Bogoliubov-de Gennes Systems**|Isaac Tesfaye et.al.|[2609.10541](http://arxiv.org/abs/2609.10541)|null|
+|**2026-09-09**|**Null String Holography, Null Strings Probe Projective Boundary of Their Target Spaces**|M. M. Sheikh-Jabbari et.al.|[2609.10432](http://arxiv.org/abs/2609.10432)|null|
+|**2026-09-08**|**Chasing Cosmic Reionization: An Extremely Faint Highly Magnified Source at $z=5.66$ with high $ξ_{\rm ion}$**|Sofía Rojas-Ruiz et.al.|[2609.09281](http://arxiv.org/abs/2609.09281)|null|
+|**2026-09-08**|**Voice or Stereotype? Disentangling Acoustic and Content-Based Gender in Speech-to-Speech Models**|Xiaoqun Liu et.al.|[2609.09263](http://arxiv.org/abs/2609.09263)|null|
 |**2026-09-07**|**Global and local degree conditions for matchability**|Ron Aharoni et.al.|[2609.07161](http://arxiv.org/abs/2609.07161)|null|
 |**2026-09-05**|**TBDub: Production-Oriented Visual Dubbing**|Bihan Li et.al.|[2609.06144](http://arxiv.org/abs/2609.06144)|null|
 |**2026-09-03**|**Alignment-Free Text-Audiobox for Voice Dubbing and Full-Duplex Dialogue Synthesis**|Sanyuan Chen et.al.|[2609.03992](http://arxiv.org/abs/2609.03992)|null|
@@ -5306,5 +5310,5 @@
 |**2013-10-01**|**Stealth Stops and Spin Correlation: A Snowmass White Paper**|Zhenyu Han et.al.|[1310.0356](http://arxiv.org/abs/1310.0356)|null|
 |**2013-09-26**|**PyR@TE: Renormalization Group Equations for General Gauge Theories**|Florian Lyonnet et.al.|[1309.7030](http://arxiv.org/abs/1309.7030)|null|
 
-<p align=right>(<a href=#updated-on-20260909>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260910>back to top</a>)</p>
 
