@@ -80,7 +80,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-17**|**MM-Future: Multi-Mode Joint World-Action Modeling for Autonomous Driving**|Shuai Liu et.al.|[2609.20377](http://arxiv.org/abs/2609.20377)|null|
+|**2026-09-17**|**The rise and decline of a transient obscuration event in a moderately distant type-I quasar**|A. Akylas et.al.|[2609.19910](http://arxiv.org/abs/2609.19910)|null|
 |**2026-09-16**|**Vocabulary-Guided Gait Recognition**|Panjian Huang et.al.|[2609.18413](http://arxiv.org/abs/2609.18413)|null|
+|**2026-09-16**|**Radial dam breaks in a two-dimensional droplet bearing environment**|F. Bristy et.al.|[2609.19508](http://arxiv.org/abs/2609.19508)|null|
+|**2026-09-16**|**Electroweak balls: non-topological solitons in the Weinberg-Salam theory**|Carlos Herdeiro et.al.|[2609.19293](http://arxiv.org/abs/2609.19293)|null|
 |**2026-09-15**|**New parton distribution functions of the real photon**|Madhav Chithirasreemadam et.al.|[2609.17163](http://arxiv.org/abs/2609.17163)|null|
 |**2026-09-15**|**Human-aware Design Generation: Adding 3D Humans into Graphic Designs**|Zijin Hou et.al.|[2609.17689](http://arxiv.org/abs/2609.17689)|null|
 |**2026-09-13**|**Quantum Hall Ferromagnetism in a Cavity Vacuum**|Ceren B. Dag et.al.|[2609.14838](http://arxiv.org/abs/2609.14838)|null|
