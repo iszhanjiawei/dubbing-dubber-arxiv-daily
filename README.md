@@ -80,8 +80,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-21**|**Efficient Architecture Search under Leave-One-Subject-Out Evaluation**|Heinke Hihn et.al.|[2609.21457](http://arxiv.org/abs/2609.21457)|null|
+|**2026-09-19**|**LD-RSVIS: A Large-Scale and Diverse Benchmark for Referring Surgical Video Instrument Segmentation**|Zan Wang et.al.|[2609.23067](http://arxiv.org/abs/2609.23067)|null|
 |**2026-09-18**|**Voxel-Matching NORDIC: Non-local patch formation by time-series similarity increases tSNR in high-resolution BOLD fMRI**|Alessandro Nigi et.al.|[2609.21517](http://arxiv.org/abs/2609.21517)|null|
-|**2026-09-18**|**Efficient Architecture Search under Leave-One-Subject-Out Evaluation**|Heinke Hihn et.al.|[2609.21457](http://arxiv.org/abs/2609.21457)|null|
 |**2026-09-18**|**Entanglement-Inducing Quantum Markov Processes**|J. Fransson et.al.|[2609.21438](http://arxiv.org/abs/2609.21438)|null|
 |**2026-09-17**|**MM-Future: Multi-Mode Joint World-Action Modeling for Autonomous Driving**|Shuai Liu et.al.|[2609.20377](http://arxiv.org/abs/2609.20377)|null|
 |**2026-09-17**|**The rise and decline of a transient obscuration event in a moderately distant type-I quasar**|A. Akylas et.al.|[2609.19910](http://arxiv.org/abs/2609.19910)|null|
