@@ -15,9 +15,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-22**|**Not Quite My Tempo: Voice Activity-aware Speech Synthesis for Lip-Synchronous Dubbing**|Alejandro Pérez-González-de-Martos et.al.|[2609.26486](http://arxiv.org/abs/2609.26486)|null|
 |**2026-09-15**|**SyncVoice: Simple and Effective Automatic Video Dubbing with Vision-Augmented TTS**|Kaidi Wang et.al.|[2512.05126](http://arxiv.org/abs/2512.05126)|null|
 |**2026-09-10**|**Post-Training Zero-Shot TTS for Fine-Grained Emotion and Duration Control via Natural Language**|Lianru Gao et.al.|[2609.11523](http://arxiv.org/abs/2609.11523)|null|
 |**2026-08-17**|**VoxAudio: Vocalized Audio Synthesis via Multi-Reward Autoregressive Flow Matching**|Wenxiang Guo et.al.|[2608.12951](http://arxiv.org/abs/2608.12951)|null|
+|**2026-08-13**|**SceneTTS-Bench: A Benchmark for Scene-Level TTS in Drama Dubbing**|Yizhong Geng et.al.|[2609.26255](http://arxiv.org/abs/2609.26255)|null|
 |**2026-07-15**|**AutoSIFT: Automatic Style Sifting for Controllable Speech Generation with Arbitrary Style Infilling**|Haowei Lou et.al.|[2607.12706](http://arxiv.org/abs/2607.12706)|null|
 |**2026-07-07**|**WordVoice: Explicit and Decoupled Multi-Dimensional Word-Level Control for LLM-Based TTS**|Sihang Nie et.al.|[2607.06461](http://arxiv.org/abs/2607.06461)|null|
 |**2026-06-20**|**ISCSLP 2026 CoT-TTS Challenge: Chain-of-Thought Reasoning for Context-Aware Text-to-Speech**|Wei Xue et.al.|[2606.21933](http://arxiv.org/abs/2606.21933)|null|
@@ -80,7 +82,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-22**|**Symplectic Hopf Insulator: Delicate Topology in Bosonic Bogoliubov-de Gennes Systems**|Isaac Tesfaye et.al.|[2609.10541](http://arxiv.org/abs/2609.10541)|null|
+|**2026-09-22**|**Unraveling the Kagome Antiferromagnetic $3J$ Model and Its Materials: An Integrated Approach**|Xin Lu et.al.|[2609.11745](http://arxiv.org/abs/2609.11745)|null|
+|**2026-09-22**|**Not Quite My Tempo: Voice Activity-aware Speech Synthesis for Lip-Synchronous Dubbing**|Alejandro Pérez-González-de-Martos et.al.|[2609.26486](http://arxiv.org/abs/2609.26486)|null|
 |**2026-09-21**|**Efficient Architecture Search under Leave-One-Subject-Out Evaluation**|Heinke Hihn et.al.|[2609.21457](http://arxiv.org/abs/2609.21457)|null|
+|**2026-09-21**|**Self-limited stacking of non-Euclidean colloidal shells: From saddles to caps**|Kyle T. Sullivan et.al.|[2609.25399](http://arxiv.org/abs/2609.25399)|null|
+|**2026-09-21**|**Classification of order-two T-duality orbifolds at the SO(12) free fermionic point**|Alon E. Faraggi et.al.|[2609.25213](http://arxiv.org/abs/2609.25213)|null|
 |**2026-09-19**|**LD-RSVIS: A Large-Scale and Diverse Benchmark for Referring Surgical Video Instrument Segmentation**|Zan Wang et.al.|[2609.23067](http://arxiv.org/abs/2609.23067)|null|
 |**2026-09-18**|**Voxel-Matching NORDIC: Non-local patch formation by time-series similarity increases tSNR in high-resolution BOLD fMRI**|Alessandro Nigi et.al.|[2609.21517](http://arxiv.org/abs/2609.21517)|null|
 |**2026-09-18**|**Entanglement-Inducing Quantum Markov Processes**|J. Fransson et.al.|[2609.21438](http://arxiv.org/abs/2609.21438)|null|
@@ -92,9 +99,7 @@
 |**2026-09-15**|**New parton distribution functions of the real photon**|Madhav Chithirasreemadam et.al.|[2609.17163](http://arxiv.org/abs/2609.17163)|null|
 |**2026-09-15**|**Human-aware Design Generation: Adding 3D Humans into Graphic Designs**|Zijin Hou et.al.|[2609.17689](http://arxiv.org/abs/2609.17689)|null|
 |**2026-09-13**|**Quantum Hall Ferromagnetism in a Cavity Vacuum**|Ceren B. Dag et.al.|[2609.14838](http://arxiv.org/abs/2609.14838)|null|
-|**2026-09-10**|**Unraveling the Kagome Antiferromagnetic $3J$ Model and Its Materials: An Integrated Approach**|Xin Lu et.al.|[2609.11745](http://arxiv.org/abs/2609.11745)|null|
 |**2026-09-10**|**Post-Training Zero-Shot TTS for Fine-Grained Emotion and Duration Control via Natural Language**|Lianru Gao et.al.|[2609.11523](http://arxiv.org/abs/2609.11523)|null|
-|**2026-09-09**|**Symplectic Hopf Insulator: Delicate Topology in Bosonic Bogoliubov-de Gennes Systems**|Isaac Tesfaye et.al.|[2609.10541](http://arxiv.org/abs/2609.10541)|null|
 |**2026-09-09**|**Null String Holography, Null Strings Probe Projective Boundary of Their Target Spaces**|M. M. Sheikh-Jabbari et.al.|[2609.10432](http://arxiv.org/abs/2609.10432)|null|
 |**2026-09-08**|**Chasing Cosmic Reionization: An Extremely Faint Highly Magnified Source at $z=5.66$ with high $ξ_{\rm ion}$**|Sofía Rojas-Ruiz et.al.|[2609.09281](http://arxiv.org/abs/2609.09281)|null|
 |**2026-09-08**|**Voice or Stereotype? Disentangling Acoustic and Content-Based Gender in Speech-to-Speech Models**|Xiaoqun Liu et.al.|[2609.09263](http://arxiv.org/abs/2609.09263)|null|
