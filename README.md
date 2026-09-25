@@ -83,6 +83,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-24**|**Accent Analogy Guidance: More Speaker Similarity at Equal Accent in Cross-Lingual Voice Cloning**|Yoomee Cho et.al.|[2609.29123](http://arxiv.org/abs/2609.29123)|null|
 |**2026-09-22**|**Symplectic Hopf Insulator: Delicate Topology in Bosonic Bogoliubov-de Gennes Systems**|Isaac Tesfaye et.al.|[2609.10541](http://arxiv.org/abs/2609.10541)|null|
 |**2026-09-22**|**Unraveling the Kagome Antiferromagnetic $3J$ Model and Its Materials: An Integrated Approach**|Xin Lu et.al.|[2609.11745](http://arxiv.org/abs/2609.11745)|null|
 |**2026-09-22**|**Not Quite My Tempo: Voice Activity-aware Speech Synthesis for Lip-Synchronous Dubbing**|Alejandro Pérez-González-de-Martos et.al.|[2609.26486](http://arxiv.org/abs/2609.26486)|null|
