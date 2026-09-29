@@ -1,4 +1,4 @@
-## Updated on 2026.09.28
+## Updated on 2026.09.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -77,12 +77,19 @@
 |**2019-08-20**|**From Text to Sound: A Preliminary Study on Retrieving Sound Effects to Radio Stories**|Songwei Ge et.al.|[1908.07590](http://arxiv.org/abs/1908.07590)|null|
 |**2016-05-30**|**A Solver for a Theory of Strings and Bit-vectors**|Sanu Subramanian et.al.|[1605.09446](http://arxiv.org/abs/1605.09446)|null|
 
-<p align=right>(<a href=#updated-on-20260928>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260929>back to top</a>)</p>
 
 ## Dubbing Papers
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-28**|**Safe Composition of CFSM Systems via Partial Gateways**|Franco Barbanera et.al.|[2609.34922](http://arxiv.org/abs/2609.34922)|null|
+|**2026-09-28**|**Exploring the observed properties of JWST Little Red Dots with cosmological simulations and dust radiative transfer**|Saksham Chandna et.al.|[2609.34903](http://arxiv.org/abs/2609.34903)|null|
+|**2026-09-27**|**Hall conductance of dilute electrolytes from odd stochastic density functional theory**|Yael Avni et.al.|[2609.33797](http://arxiv.org/abs/2609.33797)|null|
+|**2026-09-27**|**DuraS2ST: Chain-of-Thought and Reinforcement Learning for Duration-Aligned Speech-to-Speech Translation**|Yayue Deng et.al.|[2609.33742](http://arxiv.org/abs/2609.33742)|null|
+|**2026-09-27**|**LoopTrack: A Simple Baseline for Parameter-Efficient Transformer Tracking**|Liang Peng et.al.|[2609.33306](http://arxiv.org/abs/2609.33306)|null|
+|**2026-09-25**|**Odd stochastic density functional theory**|Yael Avni et.al.|[2609.32080](http://arxiv.org/abs/2609.32080)|null|
+|**2026-09-25**|**Probing the classical complexity of quantum dynamics experiments**|Thomas Schuster et.al.|[2609.31830](http://arxiv.org/abs/2609.31830)|null|
 |**2026-09-24**|**Accent Analogy Guidance: More Speaker Similarity at Equal Accent in Cross-Lingual Voice Cloning**|Yoomee Cho et.al.|[2609.29123](http://arxiv.org/abs/2609.29123)|null|
 |**2026-09-22**|**Symplectic Hopf Insulator: Delicate Topology in Bosonic Bogoliubov-de Gennes Systems**|Isaac Tesfaye et.al.|[2609.10541](http://arxiv.org/abs/2609.10541)|null|
 |**2026-09-22**|**Unraveling the Kagome Antiferromagnetic $3J$ Model and Its Materials: An Integrated Approach**|Xin Lu et.al.|[2609.11745](http://arxiv.org/abs/2609.11745)|null|
@@ -5332,5 +5339,5 @@
 |**2013-10-01**|**Stealth Stops and Spin Correlation: A Snowmass White Paper**|Zhenyu Han et.al.|[1310.0356](http://arxiv.org/abs/1310.0356)|null|
 |**2013-09-26**|**PyR@TE: Renormalization Group Equations for General Gauge Theories**|Florian Lyonnet et.al.|[1309.7030](http://arxiv.org/abs/1309.7030)|null|
 
-<p align=right>(<a href=#updated-on-20260928>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260929>back to top</a>)</p>
 
