@@ -1,4 +1,4 @@
-## Updated on 2026.09.29
+## Updated on 2026.09.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -77,12 +77,14 @@
 |**2019-08-20**|**From Text to Sound: A Preliminary Study on Retrieving Sound Effects to Radio Stories**|Songwei Ge et.al.|[1908.07590](http://arxiv.org/abs/1908.07590)|null|
 |**2016-05-30**|**A Solver for a Theory of Strings and Bit-vectors**|Sanu Subramanian et.al.|[1605.09446](http://arxiv.org/abs/1605.09446)|null|
 
-<p align=right>(<a href=#updated-on-20260929>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260930>back to top</a>)</p>
 
 ## Dubbing Papers
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-29**|**Electroweak balls: non-topological solitons in the Weinberg-Salam theory**|Carlos Herdeiro et.al.|[2609.19293](http://arxiv.org/abs/2609.19293)|null|
+|**2026-09-29**|**Beyond Lip Sync: Reference-Grounded Oral Refinement for Audio-Driven Portrait Animation**|Bangxun Tang et.al.|[2609.38019](http://arxiv.org/abs/2609.38019)|null|
 |**2026-09-28**|**Safe Composition of CFSM Systems via Partial Gateways**|Franco Barbanera et.al.|[2609.34922](http://arxiv.org/abs/2609.34922)|null|
 |**2026-09-28**|**Exploring the observed properties of JWST Little Red Dots with cosmological simulations and dust radiative transfer**|Saksham Chandna et.al.|[2609.34903](http://arxiv.org/abs/2609.34903)|null|
 |**2026-09-27**|**Hall conductance of dilute electrolytes from odd stochastic density functional theory**|Yael Avni et.al.|[2609.33797](http://arxiv.org/abs/2609.33797)|null|
@@ -104,7 +106,6 @@
 |**2026-09-17**|**The rise and decline of a transient obscuration event in a moderately distant type-I quasar**|A. Akylas et.al.|[2609.19910](http://arxiv.org/abs/2609.19910)|null|
 |**2026-09-16**|**Vocabulary-Guided Gait Recognition**|Panjian Huang et.al.|[2609.18413](http://arxiv.org/abs/2609.18413)|null|
 |**2026-09-16**|**Radial dam breaks in a two-dimensional droplet bearing environment**|F. Bristy et.al.|[2609.19508](http://arxiv.org/abs/2609.19508)|null|
-|**2026-09-16**|**Electroweak balls: non-topological solitons in the Weinberg-Salam theory**|Carlos Herdeiro et.al.|[2609.19293](http://arxiv.org/abs/2609.19293)|null|
 |**2026-09-15**|**New parton distribution functions of the real photon**|Madhav Chithirasreemadam et.al.|[2609.17163](http://arxiv.org/abs/2609.17163)|null|
 |**2026-09-15**|**Human-aware Design Generation: Adding 3D Humans into Graphic Designs**|Zijin Hou et.al.|[2609.17689](http://arxiv.org/abs/2609.17689)|null|
 |**2026-09-13**|**Quantum Hall Ferromagnetism in a Cavity Vacuum**|Ceren B. Dag et.al.|[2609.14838](http://arxiv.org/abs/2609.14838)|null|
@@ -5339,5 +5340,5 @@
 |**2013-10-01**|**Stealth Stops and Spin Correlation: A Snowmass White Paper**|Zhenyu Han et.al.|[1310.0356](http://arxiv.org/abs/1310.0356)|null|
 |**2013-09-26**|**PyR@TE: Renormalization Group Equations for General Gauge Theories**|Florian Lyonnet et.al.|[1309.7030](http://arxiv.org/abs/1309.7030)|null|
 
-<p align=right>(<a href=#updated-on-20260929>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260930>back to top</a>)</p>
 
