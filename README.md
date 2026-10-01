@@ -1,4 +1,4 @@
-## Updated on 2026.09.30
+## Updated on 2026.10.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-30**|**Index-Translate: A Multilingual Translation Model Family -- Text, Speech, Controlled Dubbing, and Long-Document Translation**|Tianjiao Li et.al.|[2609.40181](http://arxiv.org/abs/2609.40181)|null|
 |**2026-09-24**|**Accent Analogy Guidance: More Speaker Similarity at Equal Accent in Cross-Lingual Voice Cloning**|Yoomee Cho et.al.|[2609.29123](http://arxiv.org/abs/2609.29123)|null|
 |**2026-09-22**|**Not Quite My Tempo: Voice Activity-aware Speech Synthesis for Lip-Synchronous Dubbing**|Alejandro Pérez-González-de-Martos et.al.|[2609.26486](http://arxiv.org/abs/2609.26486)|null|
 |**2026-09-15**|**SyncVoice: Simple and Effective Automatic Video Dubbing with Vision-Augmented TTS**|Kaidi Wang et.al.|[2512.05126](http://arxiv.org/abs/2512.05126)|null|
@@ -77,12 +78,14 @@
 |**2019-08-20**|**From Text to Sound: A Preliminary Study on Retrieving Sound Effects to Radio Stories**|Songwei Ge et.al.|[1908.07590](http://arxiv.org/abs/1908.07590)|null|
 |**2016-05-30**|**A Solver for a Theory of Strings and Bit-vectors**|Sanu Subramanian et.al.|[1605.09446](http://arxiv.org/abs/1605.09446)|null|
 
-<p align=right>(<a href=#updated-on-20260930>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261001>back to top</a>)</p>
 
 ## Dubbing Papers
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-30**|**Index-Translate: A Multilingual Translation Model Family -- Text, Speech, Controlled Dubbing, and Long-Document Translation**|Tianjiao Li et.al.|[2609.40181](http://arxiv.org/abs/2609.40181)|null|
+|**2026-09-30**|**Doing More with Less Tokens: Hierarchical Reinforcement Learning for Efficient Coding Agents**|Haobin Li et.al.|[2609.38885](http://arxiv.org/abs/2609.38885)|null|
 |**2026-09-29**|**Electroweak balls: non-topological solitons in the Weinberg-Salam theory**|Carlos Herdeiro et.al.|[2609.19293](http://arxiv.org/abs/2609.19293)|null|
 |**2026-09-29**|**Beyond Lip Sync: Reference-Grounded Oral Refinement for Audio-Driven Portrait Animation**|Bangxun Tang et.al.|[2609.38019](http://arxiv.org/abs/2609.38019)|null|
 |**2026-09-28**|**Safe Composition of CFSM Systems via Partial Gateways**|Franco Barbanera et.al.|[2609.34922](http://arxiv.org/abs/2609.34922)|null|
@@ -5340,5 +5343,5 @@
 |**2013-10-01**|**Stealth Stops and Spin Correlation: A Snowmass White Paper**|Zhenyu Han et.al.|[1310.0356](http://arxiv.org/abs/1310.0356)|null|
 |**2013-09-26**|**PyR@TE: Renormalization Group Equations for General Gauge Theories**|Florian Lyonnet et.al.|[1309.7030](http://arxiv.org/abs/1309.7030)|null|
 
-<p align=right>(<a href=#updated-on-20260930>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261001>back to top</a>)</p>
 
