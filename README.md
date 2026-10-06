@@ -1,4 +1,4 @@
-## Updated on 2026.10.05
+## Updated on 2026.10.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -78,15 +78,19 @@
 |**2019-08-20**|**From Text to Sound: A Preliminary Study on Retrieving Sound Effects to Radio Stories**|Songwei Ge et.al.|[1908.07590](http://arxiv.org/abs/1908.07590)|null|
 |**2016-05-30**|**A Solver for a Theory of Strings and Bit-vectors**|Sanu Subramanian et.al.|[1605.09446](http://arxiv.org/abs/1605.09446)|null|
 
-<p align=right>(<a href=#updated-on-20261005>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261006>back to top</a>)</p>
 
 ## Dubbing Papers
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-05**|**Character Identity is not Speaker Identity: KyaraBench and KyaraEmbed for Character Verification**|Joonyong Park et.al.|[2610.06013](http://arxiv.org/abs/2610.06013)|null|
+|**2026-10-05**|**UltraDub: Towards Authentic Dubbing by Unifying Visually-Steered Flow Learning and Trajectory Guidance**|Gaoxiang Cong et.al.|[2610.05932](http://arxiv.org/abs/2610.05932)|null|
+|**2026-10-04**|**Incoherent filter banks**|William J. Brinkley et.al.|[2610.05302](http://arxiv.org/abs/2610.05302)|null|
 |**2026-10-02**|**S $^{2}$ -PINN: Stochastic Separable Physics-Informed Neural Networks**|Zhendong Li et.al.|[2610.03303](http://arxiv.org/abs/2610.03303)|null|
 |**2026-10-02**|**An Applicative Multiset Path Order (Extended Version)**|Nao Hirokawa et.al.|[2610.02973](http://arxiv.org/abs/2610.02973)|null|
 |**2026-10-02**|**XMM-Newton Resolves Parsec-scale X-ray Jets in the PeVatron Microquasar V4641 Sgr**|Naomi Tsuji et.al.|[2610.02966](http://arxiv.org/abs/2610.02966)|null|
+|**2026-10-02**|**SCALES. II. The Internal Composition of Giant Star-Forming Clumps at $z = 1 - 4$**|Boris S. Kalita et.al.|[2610.03867](http://arxiv.org/abs/2610.03867)|null|
 |**2026-10-01**|**Decision Titan: Test-Time Training for Long-Term Memory in Offline Reinforcement Learning**|Jude Waide et.al.|[2610.01513](http://arxiv.org/abs/2610.01513)|null|
 |**2026-10-01**|**Clock Diffusion: Efficient Semi-Autoregressive Continuous Diffusion Language Models**|Yair Schiff et.al.|[2610.00894](http://arxiv.org/abs/2610.00894)|null|
 |**2026-09-30**|**Index-Translate: A Multilingual Translation Model Family -- Text, Speech, Controlled Dubbing, and Long-Document Translation**|Tianjiao Li et.al.|[2609.40181](http://arxiv.org/abs/2609.40181)|null|
@@ -5349,5 +5353,5 @@
 |**2013-10-01**|**Stealth Stops and Spin Correlation: A Snowmass White Paper**|Zhenyu Han et.al.|[1310.0356](http://arxiv.org/abs/1310.0356)|null|
 |**2013-09-26**|**PyR@TE: Renormalization Group Equations for General Gauge Theories**|Florian Lyonnet et.al.|[1309.7030](http://arxiv.org/abs/1309.7030)|null|
 
-<p align=right>(<a href=#updated-on-20261005>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261006>back to top</a>)</p>
 
