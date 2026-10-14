@@ -15,8 +15,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-10-07**|**Post-Training Zero-Shot TTS for Fine-Grained Emotion and Duration Control via Natural Language**|Lianru Gao et.al.|[2609.11523](http://arxiv.org/abs/2609.11523)|null|
-|**2026-09-30**|**Index-Translate: A Multilingual Translation Model Family -- Text, Speech, Controlled Dubbing, and Long-Document Translation**|Tianjiao Li et.al.|[2609.40181](http://arxiv.org/abs/2609.40181)|null|
+|**2026-10-13**|**Fish Audio Drama 3 Technical Report**|Dawei Han et.al.|[2610.18010](http://arxiv.org/abs/2610.18010)|null|
+|**2026-10-12**|**Index-Translate: A Multilingual Translation Model Family -- Text, Speech, Controlled Dubbing, and Long-Document Translation**|Tianjiao Li et.al.|[2609.40181](http://arxiv.org/abs/2609.40181)|null|
+|**2026-10-10**|**Post-Training Zero-Shot TTS for Fine-Grained Emotion and Duration Control via Natural Language**|Lianru Gao et.al.|[2609.11523](http://arxiv.org/abs/2609.11523)|null|
 |**2026-09-24**|**Accent Analogy Guidance: More Speaker Similarity at Equal Accent in Cross-Lingual Voice Cloning**|Yoomee Cho et.al.|[2609.29123](http://arxiv.org/abs/2609.29123)|null|
 |**2026-09-22**|**Not Quite My Tempo: Voice Activity-aware Speech Synthesis for Lip-Synchronous Dubbing**|Alejandro Pérez-González-de-Martos et.al.|[2609.26486](http://arxiv.org/abs/2609.26486)|null|
 |**2026-09-15**|**SyncVoice: Simple and Effective Automatic Video Dubbing with Vision-Augmented TTS**|Kaidi Wang et.al.|[2512.05126](http://arxiv.org/abs/2512.05126)|null|
@@ -84,8 +85,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-13**|**Telling FIBS: Probes Effectively Detect Sabotage and Catch Unverbalized Deception**|Oskar J. Hollinsworth et.al.|[2610.12445](http://arxiv.org/abs/2610.12445)|null|
+|**2026-10-13**|**FALLNEST: Dual-Domain Dataset Condensation of Imbalanced IMU Data for Wearable Fall Detection**|Rashi Niyas P et.al.|[2610.18260](http://arxiv.org/abs/2610.18260)|null|
+|**2026-10-13**|**Fish Audio Drama 3 Technical Report**|Dawei Han et.al.|[2610.18010](http://arxiv.org/abs/2610.18010)|null|
+|**2026-10-12**|**Proactive Physical AI through Continuous Observation and Timely Intervention**|Zhenhua Yang et.al.|[2610.16967](http://arxiv.org/abs/2610.16967)|null|
+|**2026-10-12**|**Conditional Membership in Regular Languages**|Antoine Amarilli et.al.|[2610.16610](http://arxiv.org/abs/2610.16610)|null|
+|**2026-10-11**|**Harnessing SPAD Noise: Test-Time Gated Attention for Indoor Depth Estimation**|Yiquan Gao et.al.|[2610.15431](http://arxiv.org/abs/2610.15431)|null|
+|**2026-10-10**|**Linear-Time Non-Local Codec Placement for Machine Learning Model Compression**|Matteo Spallanzani et.al.|[2610.14703](http://arxiv.org/abs/2610.14703)|null|
 |**2026-10-09**|**Percolation of Data Constraints and Reorganization of Boolean Function States in Parity Learning**|Han Ma et.al.|[2610.13233](http://arxiv.org/abs/2610.13233)|null|
-|**2026-10-08**|**Caught in the Act: Probes Effectively Detect Sabotage and Catch Unverbalized Deception**|Oskar J. Hollinsworth et.al.|[2610.12445](http://arxiv.org/abs/2610.12445)|null|
 |**2026-10-08**|**Frustrated Topological Orbital Magnetism**|Sergio Garrido Bourkhaeva et.al.|[2610.12557](http://arxiv.org/abs/2610.12557)|null|
 |**2026-10-07**|**Data Reuse in Non-Stationary Learning**|Tomer Gafni et.al.|[2610.10340](http://arxiv.org/abs/2610.10340)|null|
 |**2026-10-07**|**Lifelong small-object navigation in changing object layouts: a benchmark and method**|Jiagan Huang et.al.|[2610.10125](http://arxiv.org/abs/2610.10125)|null|
