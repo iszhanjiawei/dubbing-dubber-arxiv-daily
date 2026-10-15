@@ -15,7 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-10-13**|**Fish Audio Drama 3 Technical Report**|Dawei Han et.al.|[2610.18010](http://arxiv.org/abs/2610.18010)|null|
+|**2026-10-14**|**Fish Audio Drama 3 Technical Report**|Dawei Han et.al.|[2610.18010](http://arxiv.org/abs/2610.18010)|null|
 |**2026-10-12**|**Index-Translate: A Multilingual Translation Model Family -- Text, Speech, Controlled Dubbing, and Long-Document Translation**|Tianjiao Li et.al.|[2609.40181](http://arxiv.org/abs/2609.40181)|null|
 |**2026-10-10**|**Post-Training Zero-Shot TTS for Fine-Grained Emotion and Duration Control via Natural Language**|Lianru Gao et.al.|[2609.11523](http://arxiv.org/abs/2609.11523)|null|
 |**2026-09-24**|**Accent Analogy Guidance: More Speaker Similarity at Equal Accent in Cross-Lingual Voice Cloning**|Yoomee Cho et.al.|[2609.29123](http://arxiv.org/abs/2609.29123)|null|
@@ -85,9 +85,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-14**|**Fish Audio Drama 3 Technical Report**|Dawei Han et.al.|[2610.18010](http://arxiv.org/abs/2610.18010)|null|
 |**2026-10-13**|**Telling FIBS: Probes Effectively Detect Sabotage and Catch Unverbalized Deception**|Oskar J. Hollinsworth et.al.|[2610.12445](http://arxiv.org/abs/2610.12445)|null|
 |**2026-10-13**|**FALLNEST: Dual-Domain Dataset Condensation of Imbalanced IMU Data for Wearable Fall Detection**|Rashi Niyas P et.al.|[2610.18260](http://arxiv.org/abs/2610.18260)|null|
-|**2026-10-13**|**Fish Audio Drama 3 Technical Report**|Dawei Han et.al.|[2610.18010](http://arxiv.org/abs/2610.18010)|null|
+|**2026-10-13**|**Qwenfant: Train Big Character-level BabyLMs on Concise Parallel Text**|Lukas Edman et.al.|[2610.19294](http://arxiv.org/abs/2610.19294)|null|
 |**2026-10-12**|**Proactive Physical AI through Continuous Observation and Timely Intervention**|Zhenhua Yang et.al.|[2610.16967](http://arxiv.org/abs/2610.16967)|null|
 |**2026-10-12**|**Conditional Membership in Regular Languages**|Antoine Amarilli et.al.|[2610.16610](http://arxiv.org/abs/2610.16610)|null|
 |**2026-10-11**|**Harnessing SPAD Noise: Test-Time Gated Attention for Indoor Depth Estimation**|Yiquan Gao et.al.|[2610.15431](http://arxiv.org/abs/2610.15431)|null|
