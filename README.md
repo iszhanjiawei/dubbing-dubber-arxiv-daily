@@ -85,8 +85,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-15**|**An HST survey of photometry and multiplicity of brown dwarfs and planetary-mass objects in the field of Taurus**|Pengyu Liu et.al.|[2610.21566](http://arxiv.org/abs/2610.21566)|null|
+|**2026-10-14**|**Telling FIBS: Probes Effectively Detect Sabotage and Catch Unverbalized Deception**|Oskar J. Hollinsworth et.al.|[2610.12445](http://arxiv.org/abs/2610.12445)|null|
 |**2026-10-14**|**Fish Audio Drama 3 Technical Report**|Dawei Han et.al.|[2610.18010](http://arxiv.org/abs/2610.18010)|null|
-|**2026-10-13**|**Telling FIBS: Probes Effectively Detect Sabotage and Catch Unverbalized Deception**|Oskar J. Hollinsworth et.al.|[2610.12445](http://arxiv.org/abs/2610.12445)|null|
 |**2026-10-13**|**FALLNEST: Dual-Domain Dataset Condensation of Imbalanced IMU Data for Wearable Fall Detection**|Rashi Niyas P et.al.|[2610.18260](http://arxiv.org/abs/2610.18260)|null|
 |**2026-10-13**|**Qwenfant: Train Big Character-level BabyLMs on Concise Parallel Text**|Lukas Edman et.al.|[2610.19294](http://arxiv.org/abs/2610.19294)|null|
 |**2026-10-12**|**Proactive Physical AI through Continuous Observation and Timely Intervention**|Zhenhua Yang et.al.|[2610.16967](http://arxiv.org/abs/2610.16967)|null|
