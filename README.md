@@ -86,6 +86,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-20**|**Large fluctuations and cusp-core transformation in dwarf galaxies**|Mahmoud Hashim et.al.|[2610.28583](http://arxiv.org/abs/2610.28583)|null|
+|**2026-10-20**|**Edit in Sync: Unified End-to-End Audio-Visual Editing for Human-Centric Videos**|Ziye Yuan et.al.|[2610.27947](http://arxiv.org/abs/2610.27947)|null|
 |**2026-10-18**|**VoxDub: A Bilingual Lip-Synchronized Audio-Visual Dataset for Automatic Video Dubbing**|Kaidi Wang et.al.|[2610.25259](http://arxiv.org/abs/2610.25259)|null|
 |**2026-10-17**|**Dynamic self-ensemble on multi-exit residual vision transformer for small-data image classification**|Stephen Ekaputra Limantoro et.al.|[2610.24602](http://arxiv.org/abs/2610.24602)|null|
 |**2026-10-15**|**An HST survey of photometry and multiplicity of brown dwarfs and planetary-mass objects in the field of Taurus**|Pengyu Liu et.al.|[2610.21566](http://arxiv.org/abs/2610.21566)|null|
