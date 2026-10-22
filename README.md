@@ -15,6 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-21**|**Character-Level Prosody Control for Mandarin Speech Synthesis:An Architecture-Preserving Approach**|Diankun An et.al.|[2610.29123](http://arxiv.org/abs/2610.29123)|null|
 |**2026-10-18**|**VoxDub: A Bilingual Lip-Synchronized Audio-Visual Dataset for Automatic Video Dubbing**|Kaidi Wang et.al.|[2610.25259](http://arxiv.org/abs/2610.25259)|null|
 |**2026-10-14**|**Fish Audio Drama 3 Technical Report**|Dawei Han et.al.|[2610.18010](http://arxiv.org/abs/2610.18010)|null|
 |**2026-10-12**|**Index-Translate: A Multilingual Translation Model Family -- Text, Speech, Controlled Dubbing, and Long-Document Translation**|Tianjiao Li et.al.|[2609.40181](http://arxiv.org/abs/2609.40181)|null|
