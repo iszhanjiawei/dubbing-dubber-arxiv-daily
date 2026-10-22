@@ -1,4 +1,4 @@
-## Updated on 2026.10.21
+## Updated on 2026.10.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -80,18 +80,20 @@
 |**2019-08-20**|**From Text to Sound: A Preliminary Study on Retrieving Sound Effects to Radio Stories**|Songwei Ge et.al.|[1908.07590](http://arxiv.org/abs/1908.07590)|null|
 |**2016-05-30**|**A Solver for a Theory of Strings and Bit-vectors**|Sanu Subramanian et.al.|[1605.09446](http://arxiv.org/abs/1605.09446)|null|
 
-<p align=right>(<a href=#updated-on-20261021>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261022>back to top</a>)</p>
 
 ## Dubbing Papers
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-21**|**Semiclassical effects on ultramassive spacetimes**|Valentin Boyanov et.al.|[2610.29857](http://arxiv.org/abs/2610.29857)|null|
+|**2026-10-21**|**Character-Level Prosody Control for Mandarin Speech Synthesis:An Architecture-Preserving Approach**|Diankun An et.al.|[2610.29123](http://arxiv.org/abs/2610.29123)|null|
+|**2026-10-20**|**Telling FIBS: Probes Effectively Detect Sabotage and Catch Unverbalized Deception**|Oskar J. Hollinsworth et.al.|[2610.12445](http://arxiv.org/abs/2610.12445)|null|
 |**2026-10-20**|**Large fluctuations and cusp-core transformation in dwarf galaxies**|Mahmoud Hashim et.al.|[2610.28583](http://arxiv.org/abs/2610.28583)|null|
 |**2026-10-20**|**Edit in Sync: Unified End-to-End Audio-Visual Editing for Human-Centric Videos**|Ziye Yuan et.al.|[2610.27947](http://arxiv.org/abs/2610.27947)|null|
 |**2026-10-18**|**VoxDub: A Bilingual Lip-Synchronized Audio-Visual Dataset for Automatic Video Dubbing**|Kaidi Wang et.al.|[2610.25259](http://arxiv.org/abs/2610.25259)|null|
 |**2026-10-17**|**Dynamic self-ensemble on multi-exit residual vision transformer for small-data image classification**|Stephen Ekaputra Limantoro et.al.|[2610.24602](http://arxiv.org/abs/2610.24602)|null|
 |**2026-10-15**|**An HST survey of photometry and multiplicity of brown dwarfs and planetary-mass objects in the field of Taurus**|Pengyu Liu et.al.|[2610.21566](http://arxiv.org/abs/2610.21566)|null|
-|**2026-10-14**|**Telling FIBS: Probes Effectively Detect Sabotage and Catch Unverbalized Deception**|Oskar J. Hollinsworth et.al.|[2610.12445](http://arxiv.org/abs/2610.12445)|null|
 |**2026-10-14**|**Fish Audio Drama 3 Technical Report**|Dawei Han et.al.|[2610.18010](http://arxiv.org/abs/2610.18010)|null|
 |**2026-10-13**|**FALLNEST: Dual-Domain Dataset Condensation of Imbalanced IMU Data for Wearable Fall Detection**|Rashi Niyas P et.al.|[2610.18260](http://arxiv.org/abs/2610.18260)|null|
 |**2026-10-13**|**Qwenfant: Train Big Character-level BabyLMs on Concise Parallel Text**|Lukas Edman et.al.|[2610.19294](http://arxiv.org/abs/2610.19294)|null|
@@ -5374,5 +5376,5 @@
 |**2013-10-01**|**Stealth Stops and Spin Correlation: A Snowmass White Paper**|Zhenyu Han et.al.|[1310.0356](http://arxiv.org/abs/1310.0356)|null|
 |**2013-09-26**|**PyR@TE: Renormalization Group Equations for General Gauge Theories**|Florian Lyonnet et.al.|[1309.7030](http://arxiv.org/abs/1309.7030)|null|
 
-<p align=right>(<a href=#updated-on-20261021>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261022>back to top</a>)</p>
 
