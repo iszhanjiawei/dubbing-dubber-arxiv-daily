@@ -88,6 +88,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-25**|**Robust Single-Parameter Point Cloud Registration using Truncated Lp Functions**|Seong Hun Lee et.al.|[2610.34271](http://arxiv.org/abs/2610.34271)|null|
 |**2026-10-23**|**X-Dubbing: Speech-to-Speech Translation under Temporal and Visual Constraints**|Jeongsoo Choi et.al.|[2610.32042](http://arxiv.org/abs/2610.32042)|null|
 |**2026-10-21**|**Semiclassical effects on ultramassive spacetimes**|Valentin Boyanov et.al.|[2610.29857](http://arxiv.org/abs/2610.29857)|null|
 |**2026-10-21**|**Character-Level Prosody Control for Mandarin Speech Synthesis:An Architecture-Preserving Approach**|Diankun An et.al.|[2610.29123](http://arxiv.org/abs/2610.29123)|null|
