@@ -15,8 +15,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-28**|**Character-Level Prosody Control for Mandarin Speech Synthesis:An Architecture-Preserving Approach**|Diankun An et.al.|[2610.29123](http://arxiv.org/abs/2610.29123)|null|
 |**2026-10-23**|**X-Dubbing: Speech-to-Speech Translation under Temporal and Visual Constraints**|Jeongsoo Choi et.al.|[2610.32042](http://arxiv.org/abs/2610.32042)|null|
-|**2026-10-21**|**Character-Level Prosody Control for Mandarin Speech Synthesis:An Architecture-Preserving Approach**|Diankun An et.al.|[2610.29123](http://arxiv.org/abs/2610.29123)|null|
 |**2026-10-18**|**VoxDub: A Bilingual Lip-Synchronized Audio-Visual Dataset for Automatic Video Dubbing**|Kaidi Wang et.al.|[2610.25259](http://arxiv.org/abs/2610.25259)|null|
 |**2026-10-14**|**Fish Audio Drama 3 Technical Report**|Dawei Han et.al.|[2610.18010](http://arxiv.org/abs/2610.18010)|null|
 |**2026-10-12**|**Index-Translate: A Multilingual Translation Model Family -- Text, Speech, Controlled Dubbing, and Long-Document Translation**|Tianjiao Li et.al.|[2609.40181](http://arxiv.org/abs/2609.40181)|null|
@@ -88,11 +88,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-28**|**Character-Level Prosody Control for Mandarin Speech Synthesis:An Architecture-Preserving Approach**|Diankun An et.al.|[2610.29123](http://arxiv.org/abs/2610.29123)|null|
+|**2026-10-28**|**Unifying energy-entropy bounds in semiclassical gravity**|Jackson R. Fliss et.al.|[2610.38713](http://arxiv.org/abs/2610.38713)|null|
 |**2026-10-26**|**A GOOFy Three Higgs Doublet Model**|I. de Medeiros Varzielas et.al.|[2610.36163](http://arxiv.org/abs/2610.36163)|null|
 |**2026-10-25**|**Robust Single-Parameter Point Cloud Registration using Truncated Lp Functions**|Seong Hun Lee et.al.|[2610.34271](http://arxiv.org/abs/2610.34271)|null|
 |**2026-10-23**|**X-Dubbing: Speech-to-Speech Translation under Temporal and Visual Constraints**|Jeongsoo Choi et.al.|[2610.32042](http://arxiv.org/abs/2610.32042)|null|
 |**2026-10-21**|**Semiclassical effects on ultramassive spacetimes**|Valentin Boyanov et.al.|[2610.29857](http://arxiv.org/abs/2610.29857)|null|
-|**2026-10-21**|**Character-Level Prosody Control for Mandarin Speech Synthesis:An Architecture-Preserving Approach**|Diankun An et.al.|[2610.29123](http://arxiv.org/abs/2610.29123)|null|
 |**2026-10-20**|**Telling FIBS: Probes Effectively Detect Sabotage and Catch Unverbalized Deception**|Oskar J. Hollinsworth et.al.|[2610.12445](http://arxiv.org/abs/2610.12445)|null|
 |**2026-10-20**|**Large fluctuations and cusp-core transformation in dwarf galaxies**|Mahmoud Hashim et.al.|[2610.28583](http://arxiv.org/abs/2610.28583)|null|
 |**2026-10-20**|**Edit in Sync: Unified End-to-End Audio-Visual Editing for Human-Centric Videos**|Ziye Yuan et.al.|[2610.27947](http://arxiv.org/abs/2610.27947)|null|
