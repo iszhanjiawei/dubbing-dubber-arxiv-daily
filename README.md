@@ -88,6 +88,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-02**|**VidDub: Replacement-Aware Distillation for Two-Step Video Dubbing**|Yexin Liu et.al.|[2611.03404](http://arxiv.org/abs/2611.03404)|null|
+|**2026-11-02**|**TaoMate-FVSR:Audio-Guided Facial Video Restoration**|Xinyang Li et.al.|[2611.03393](http://arxiv.org/abs/2611.03393)|null|
+|**2026-11-01**|**CertClaim: Towards Certified Model-Claim Verification for Coding-Agent Services**|Jiacheng Lu et.al.|[2611.01950](http://arxiv.org/abs/2611.01950)|null|
+|**2026-10-31**|**Learning Timeline-Preserving Speech-to-Speech Translation**|Zhisheng Zheng et.al.|[2611.00690](http://arxiv.org/abs/2611.00690)|null|
 |**2026-10-30**|**Tests of equivalence principle violation in doubly coupled dark energy**|Yannick Kegel et.al.|[2610.42056](http://arxiv.org/abs/2610.42056)|null|
 |**2026-10-28**|**Character-Level Prosody Control for Mandarin Speech Synthesis:An Architecture-Preserving Approach**|Diankun An et.al.|[2610.29123](http://arxiv.org/abs/2610.29123)|null|
 |**2026-10-28**|**Unifying energy-entropy bounds in semiclassical gravity**|Jackson R. Fliss et.al.|[2610.38713](http://arxiv.org/abs/2610.38713)|null|
