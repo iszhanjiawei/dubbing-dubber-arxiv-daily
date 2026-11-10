@@ -88,6 +88,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-09**|**The Swift/UVOT Observation Campaign of Comet C/2013 US10 (Catalina) and Near-nucleus UV Excess**|Shawn Oset et.al.|[2611.12637](http://arxiv.org/abs/2611.12637)|null|
+|**2026-11-07**|**LongCapHarness: Capability-Guided Auto-Harnessing for Long-Context Reasoning**|Tao Zhang et.al.|[2611.10463](http://arxiv.org/abs/2611.10463)|null|
 |**2026-11-06**|**Emo-LiveSync: Real-Time Universal Lip Synchronization with Explicit Emotion Control**|Sangjoon Yu et.al.|[2611.09074](http://arxiv.org/abs/2611.09074)|null|
 |**2026-11-06**|**AccentCanvas: Activity-Guided Bidirectional Accent Conversion**|Jaehun Kim et.al.|[2611.08972](http://arxiv.org/abs/2611.08972)|null|
 |**2026-11-05**|**Natural Dark Matter in Generalized No-scale $\mathcal{F}$-$SU(5)$ at the HL-LHC and LUX-ZEPLIN Experiment**|Tianjun Li et.al.|[2611.07385](http://arxiv.org/abs/2611.07385)|null|
