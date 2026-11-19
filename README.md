@@ -88,6 +88,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-18**|**VidDub: Replacement-Aware Supervision for Two-Step Video Dubbing**|Yexin Liu et.al.|[2611.03404](http://arxiv.org/abs/2611.03404)|null|
 |**2026-11-16**|**Krylov meets Fock: Complementary lenses on quantum dynamics**|Giuseppe Di Giulio et.al.|[2611.05495](http://arxiv.org/abs/2611.05495)|null|
 |**2026-11-11**|**The importance of shear strain in narrow Si/SiGe quantum wells**|Hudaiba Soomro et.al.|[2611.16015](http://arxiv.org/abs/2611.16015)|null|
 |**2026-11-09**|**The Swift/UVOT Observation Campaign of Comet C/2013 US10 (Catalina) and Near-nucleus UV Excess**|Shawn Oset et.al.|[2611.12637](http://arxiv.org/abs/2611.12637)|null|
@@ -99,7 +100,6 @@
 |**2026-11-04**|**Holistic Parallel Supervision for Expressive Speech to Speech Translation**|Hao Zhang et.al.|[2611.06010](http://arxiv.org/abs/2611.06010)|null|
 |**2026-11-04**|**FlyHash for LLM Agent Memory: An Empirical Validation and a New Application**|Mohan Bheemadolu et.al.|[2611.05791](http://arxiv.org/abs/2611.05791)|null|
 |**2026-11-03**|**TaoMate-FVSR: Audio-Guided Facial Video Restoration**|Xinyang Li et.al.|[2611.03393](http://arxiv.org/abs/2611.03393)|null|
-|**2026-11-02**|**VidDub: Replacement-Aware Distillation for Two-Step Video Dubbing**|Yexin Liu et.al.|[2611.03404](http://arxiv.org/abs/2611.03404)|null|
 |**2026-11-01**|**CertClaim: Towards Certified Model-Claim Verification for Coding-Agent Services**|Jiacheng Lu et.al.|[2611.01950](http://arxiv.org/abs/2611.01950)|null|
 |**2026-10-31**|**Learning Timeline-Preserving Speech-to-Speech Translation**|Zhisheng Zheng et.al.|[2611.00690](http://arxiv.org/abs/2611.00690)|null|
 |**2026-10-30**|**Tests of equivalence principle violation in doubly coupled dark energy**|Yannick Kegel et.al.|[2610.42056](http://arxiv.org/abs/2610.42056)|null|
