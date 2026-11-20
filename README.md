@@ -89,6 +89,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2026-11-18**|**VidDub: Replacement-Aware Supervision for Two-Step Video Dubbing**|Yexin Liu et.al.|[2611.03404](http://arxiv.org/abs/2611.03404)|null|
+|**2026-11-18**|**Resonance-aware NLOPS matching for off-shell $t\bar t+tW$ production in association with a Higgs boson**|Patrick E. Hurley et.al.|[2611.25044](http://arxiv.org/abs/2611.25044)|null|
 |**2026-11-16**|**Krylov meets Fock: Complementary lenses on quantum dynamics**|Giuseppe Di Giulio et.al.|[2611.05495](http://arxiv.org/abs/2611.05495)|null|
 |**2026-11-11**|**The importance of shear strain in narrow Si/SiGe quantum wells**|Hudaiba Soomro et.al.|[2611.16015](http://arxiv.org/abs/2611.16015)|null|
 |**2026-11-09**|**The Swift/UVOT Observation Campaign of Comet C/2013 US10 (Catalina) and Near-nucleus UV Excess**|Shawn Oset et.al.|[2611.12637](http://arxiv.org/abs/2611.12637)|null|
