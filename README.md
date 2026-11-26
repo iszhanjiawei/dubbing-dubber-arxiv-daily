@@ -1,4 +1,4 @@
-## Updated on 2026.11.25
+## Updated on 2026.11.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -82,12 +82,13 @@
 |**2019-08-20**|**From Text to Sound: A Preliminary Study on Retrieving Sound Effects to Radio Stories**|Songwei Ge et.al.|[1908.07590](http://arxiv.org/abs/1908.07590)|null|
 |**2016-05-30**|**A Solver for a Theory of Strings and Bit-vectors**|Sanu Subramanian et.al.|[1605.09446](http://arxiv.org/abs/1605.09446)|null|
 
-<p align=right>(<a href=#updated-on-20261125>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261126>back to top</a>)</p>
 
 ## Dubbing Papers
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-24**|**The importance of shear strain in narrow Si/SiGe quantum wells**|Hudaiba Soomro et.al.|[2611.16015](http://arxiv.org/abs/2611.16015)|null|
 |**2026-11-24**|**Conformality lost in Anderson localization in infinite dimensions, and regained in finite dimensions: a phenomenological theory of the Anderson transition in high dimensions**|Antonello Scardicchio et.al.|[2611.32725](http://arxiv.org/abs/2611.32725)|null|
 |**2026-11-24**|**A Framework for Graph Node Symmetric Quantification under Dataset Shift**|Alessio Micheli et.al.|[2611.32403](http://arxiv.org/abs/2611.32403)|null|
 |**2026-11-20**|**SIR-Agent: Skill-Augmented Image Restoration Agent with Recursive Self-Improvement**|Yijian Wang et.al.|[2611.27285](http://arxiv.org/abs/2611.27285)|null|
@@ -95,7 +96,6 @@
 |**2026-11-18**|**VidDub: Replacement-Aware Supervision for Two-Step Video Dubbing**|Yexin Liu et.al.|[2611.03404](http://arxiv.org/abs/2611.03404)|null|
 |**2026-11-18**|**Resonance-aware NLOPS matching for off-shell $t\bar t+tW$ production in association with a Higgs boson**|Patrick E. Hurley et.al.|[2611.25044](http://arxiv.org/abs/2611.25044)|null|
 |**2026-11-16**|**Krylov meets Fock: Complementary lenses on quantum dynamics**|Giuseppe Di Giulio et.al.|[2611.05495](http://arxiv.org/abs/2611.05495)|null|
-|**2026-11-11**|**The importance of shear strain in narrow Si/SiGe quantum wells**|Hudaiba Soomro et.al.|[2611.16015](http://arxiv.org/abs/2611.16015)|null|
 |**2026-11-09**|**The Swift/UVOT Observation Campaign of Comet C/2013 US10 (Catalina) and Near-nucleus UV Excess**|Shawn Oset et.al.|[2611.12637](http://arxiv.org/abs/2611.12637)|null|
 |**2026-11-07**|**LongCapHarness: Capability-Guided Auto-Harnessing for Long-Context Reasoning**|Tao Zhang et.al.|[2611.10463](http://arxiv.org/abs/2611.10463)|null|
 |**2026-11-06**|**Emo-LiveSync: Real-Time Universal Lip Synchronization with Explicit Emotion Control**|Sangjoon Yu et.al.|[2611.09074](http://arxiv.org/abs/2611.09074)|null|
@@ -5402,5 +5402,5 @@
 |**2013-10-01**|**Stealth Stops and Spin Correlation: A Snowmass White Paper**|Zhenyu Han et.al.|[1310.0356](http://arxiv.org/abs/1310.0356)|null|
 |**2013-09-26**|**PyR@TE: Renormalization Group Equations for General Gauge Theories**|Florian Lyonnet et.al.|[1309.7030](http://arxiv.org/abs/1309.7030)|null|
 
-<p align=right>(<a href=#updated-on-20261125>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261126>back to top</a>)</p>
 
